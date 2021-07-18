@@ -1,0 +1,728 @@
+Return-Path: <rcapps@frcemail.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP
+	id oEboGdcE7V73DAAA1qp4aA
+	(envelope-from <rcapps@frcemail.com>)
+	for <cgray@bandwise.com>; Fri, 19 Jun 2020 13:32:55 -0500
+Return-path: <rcapps@frcemail.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Fri, 19 Jun 2020 13:32:55 -0500
+Received: from server907.appriver.com ([204.232.250.38]:62855)
+	by vm.bandwise.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	(Exim 4.93)
+	(envelope-from <rcapps@frcemail.com>)
+	id 1jmLod-0000hJ-Ea
+	for cgray@bandwise.com; Fri, 19 Jun 2020 13:32:39 -0500
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 06/19/2020 2:31:59 PM
+X-Note: SecureTide Build: 5/20/2020 11:40:42 AM UTC (2.10.4.0)
+X-Note: Filtered by 10.246.1.76
+X-Note-AR-Scan: None - PIPE
+Received: by server907.appriver.com (CommuniGate Pro PIPE 6.2.12)
+  with PIPE id 48324550; Fri, 19 Jun 2020 14:31:59 -0400
+Received: from [10.246.0.39] (HELO smtp.us.exg7.exghost.com)
+  by server907.appriver.com (CommuniGate Pro SMTP 6.2.12)
+  with ESMTPS id 48324528; Fri, 19 Jun 2020 14:31:56 -0400
+Received: from E16DN74C-S1E7.exg7.exghost.local (192.168.246.23) by
+ E16DN76A-S1E7.exg7.exghost.local (192.168.245.239) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id
+ 15.1.1979.0; Fri, 19 Jun 2020 14:31:55 -0400
+Received: from E16DN74C-S1E7.exg7.exghost.local ([192.168.246.23]) by
+ E16DN74C-S1E7.exg7.exghost.local ([192.168.246.23]) with mapi id
+ 15.01.1979.000; Fri, 19 Jun 2020 14:31:55 -0400
+From: Richard Capps <rcapps@frcemail.com>
+To: Christopher Gray <cgray@bandwise.com>
+CC: Brad Lindsey <blindsey@frcemail.com>, "bmoore@mossyoakproperties.com"
+	<bmoore@mossyoakproperties.com>, Donald Dietz <ddietz@frcemail.com>
+Subject: RE: Added items to HCM
+Thread-Topic: Added items to HCM
+Thread-Index: AdZFuZYaU+FLkiCWQgOj17W1UFAXmgAz5FUAAAhZm8A=
+Date: Fri, 19 Jun 2020 18:31:55 +0000
+Message-ID: <f58070f6cabc4e66987a2d61222221f3@frcemail.com>
+References: <8e236aea153943c7b75f6d291d02b660@frcemail.com>
+ <1ce0adb3-c0ce-a9f3-9c63-7502852cc27c@bandwise.com>
+In-Reply-To: <1ce0adb3-c0ce-a9f3-9c63-7502852cc27c@bandwise.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [207.70.191.46]
+x-rerouted-by-exchange: 
+MIME-Version: 1.0
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_004_f58070f6cabc4e66987a2d61222221f3frcemailcom_";
+	type="multipart/alternative"
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 06/19/2020 2:31:56 PM
+X-Note: SecureTide Build: 5/20/2020 11:40:42 AM UTC (2.10.4.0)
+X-Note: Filtered by 10.246.1.76
+X-Policy: GLOBAL
+X-Primary: GLOBAL@frcemail.com
+X-Note-Sender: <rcapps@frcemail.com>
+X-Virus-Scan: V-
+X-Note-SnifferID: 0
+X-GBUdb-Analysis: 0, 10.246.0.39, Ugly c=1 p=-0.981895 Source White
+X-Signature-Violations:
+	0-0-0-32767-c
+X-Note-419: 31.2537 ms. Fail:0 Chk:1365 of 1365 total
+X-Note: VSCH-CT/SI: 0-1365/SG:1 6/19/2020 2:31:27 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->PRIVATE->
+X-Note-Sending-IP: 10.246.0.39
+X-Note-Reverse-DNS: 
+X-Note-Return-Path: rcapps@frcemail.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G712 G713 G714 G715 G733 G734 G735 G890 G903 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-bandwise-MailScanner-Information: Please contact the ISP for more information
+X-bandwise-MailScanner-ID: 1jmLod-0000hJ-Ea
+X-bandwise-MailScanner: Found to be clean
+X-bandwise-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-2, required 5, BAYES_00 -1.90, BW_FOREIGNL 0.50,
+	BW_FOREIGNL3 0.10, HTML_MESSAGE 0.00, RCVD_IN_DNSWL_LOW -0.70,
+	RCVD_IN_MSPIKE_H2 -0.00, SPF_PASS -0.00, URIBL_BLOCKED 0.00)
+X-bandwise-MailScanner-From: rcapps@frcemail.com
+X-Spam-Status: No
+
+--_004_f58070f6cabc4e66987a2d61222221f3frcemailcom_
+Content-Type: multipart/alternative;
+	boundary="_000_f58070f6cabc4e66987a2d61222221f3frcemailcom_"
+
+--_000_f58070f6cabc4e66987a2d61222221f3frcemailcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The files should only in the back for our use.
+
+
+[FRC]<http://www.frc.us.com/>
+
+Richard M Capps
+
+Recreational Lease Specialist
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, Texas 75941
+
+Office: (936) 829-6300 Ext. 1013
+
+Visit us at: www.frc.us.com<http://www.frc.us.com/>
+
+
+
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com>
+Sent: Friday, June 19, 2020 1:30 PM
+To: Richard Capps <rcapps@frcemail.com>
+Cc: Brad Lindsey <blindsey@frcemail.com>; bmoore@mossyoakproperties.com; Do=
+nald Dietz <ddietz@frcemail.com>
+Subject: Re: Added items to HCM
+
+
+Adding an e-mail dialogue to the bounce payment button is simple.
+
+Adding file attachments to leases is a bigger request, but I can certainly =
+make it happen. Do these lease attachment files need to be visible to the c=
+lub or only the back office? Or do you need an option that would allow you =
+to expose the file to the club contact when needed?
+
+
+On 6/19/2020 1:21 PM, Richard Capps wrote:
+Chris, I have a couple of thing I would like for you to consider adding to =
+HCM. I would like an outgoing email for failed payments, when we bounce a p=
+ayment because it failed HCM would generate an email. Email like making a p=
+ayment or you have a new invoice.
+
+Now the big request, I would like a Document folder added to the "Lease Qui=
+ckview" like the map folder. We are getting emails with partial sale paperw=
+ork that has attached maps, granted easements with maps, pipeline right of =
+way descriptions with abstract maps, and hunting club problems that the for=
+ester attach pictures. We currently have no way to put these into HCM, we c=
+an copy the written part in the history, but the maps and pictures won't sh=
+ow. Below is an example of an email with pictures I need to document in the=
+ club's file.
+
+What are your thoughts
+Thanks Richard
+
+
+
+[FRC]<http://www.frc.us.com/>
+
+Richard M Capps
+
+Recreational Lease Specialist
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, Texas 75941
+
+Office: (936) 829-6300 Ext. 1013
+
+Visit us at: www.frc.us.com<http://www.frc.us.com/>
+
+
+
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Brenden Gill <bgill@frcemail.com><mailto:bgill@frcemail.com>
+Sent: Wednesday, June 17, 2020 3:00 PM
+To: Richard Capps <rcapps@frcemail.com><mailto:rcapps@frcemail.com>; Brad L=
+indsey <blindsey@frcemail.com><mailto:blindsey@frcemail.com>
+Cc: Donald Dietz <ddietz@frcemail.com><mailto:ddietz@frcemail.com>; Tim Gah=
+l <tgahl@frcemail.com><mailto:tgahl@frcemail.com>; Curtis Jackson <cjackson=
+@frcemail.com><mailto:cjackson@frcemail.com>; Shannon Taylor <staylor@frcem=
+ail.com><mailto:staylor@frcemail.com>
+Subject: Neches Wildlife Damages
+
+Richard,
+
+Attached is the bill and the estimate for the dirt stolen by the club.  Wor=
+k is completed including filling in the deep pit in the plantation.  We sti=
+ll need to address the campsites, hardwood logs and yesterday Foundation (o=
+ilfield) company complained about the hunters vandalizing locations.  The n=
+orth end of the lease has no locked gates.  We should get together to discu=
+ss our path forward as soon as you can.
+
+Brenden
+
+________________________________
+[FRC]<http://www.frc.us.com/>
+
+Brenden Gill | Area Manager
+
+Forest Resource Consultants, Inc.
+
+1582 US Hwy 96 N  | Silsbee, Texas  77656
+
+Office: (409) 385-5296 Ext 3003
+Cell: (409) 828-0104
+
+Visit us at: www.frc.us.com<http://www.frc.us.com/>
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+
+--
+
+__________________________________
+
+~Christopher Gray, Bandwise LLC
+
+http://www.bandwise.com/
+
+Cell: 318-422-6577
+
+--_000_f58070f6cabc4e66987a2d61222221f3frcemailcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Times New Roman \,serif";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">The files should only in the back for our use. <o:p>=
+</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:=
+p>&nbsp;</o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"http://www.frc.us.com/"><span style=3D"fo=
+nt-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:white;te=
+xt-decoration:none"><img border=3D"0" width=3D"75" height=3D"77" style=3D"w=
+idth:.7812in;height:.802in" id=3D"_x0000_i1031" src=3D"cid:image001.png@01D=
+6463D.FF2D3330" alt=3D"FRC"></span></a><span style=3D"font-size:12.0pt;font=
+-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Richard M Capps<o:p></o:p></span><=
+/b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Recreational Lease Specialist<o:p>=
+</o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, Texa=
+s 75941<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 Ext. 1013<o:p>=
+</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com/"><span style=3D"color:black">www.frc.us.com</span></a><o:p><=
+/o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:=
+p>&nbsp;</o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><i><span style=3D"font-size:7.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif">This message may contain privileged or propriet=
+ary information. It has been sent for the sole use of the intended recipien=
+t(s). If you have received this communication
+ in error, please reply to the sender and delete the message.</span></i><sp=
+an style=3D"font-size:7.0pt;font-family:&quot;Helvetica&quot;,sans-serif"><=
+o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray &lt;cgray@bandwise.com=
+&gt; <br>
+<b>Sent:</b> Friday, June 19, 2020 1:30 PM<br>
+<b>To:</b> Richard Capps &lt;rcapps@frcemail.com&gt;<br>
+<b>Cc:</b> Brad Lindsey &lt;blindsey@frcemail.com&gt;; bmoore@mossyoakprope=
+rties.com; Donald Dietz &lt;ddietz@frcemail.com&gt;<br>
+<b>Subject:</b> Re: Added items to HCM<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p>Adding an e-mail dialogue to the bounce payment button is simple.<o:p></=
+o:p></p>
+<p>Adding file attachments to leases is a bigger request, but I can certain=
+ly make it happen. Do these lease attachment files need to be visible to th=
+e club or only the back office? Or do you need an option that would allow y=
+ou to expose the file to the club
+ contact when needed?<o:p></o:p></p>
+<p><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal">On 6/19/2020 1:21 PM, Richard Capps wrote:<o:p></o:p=
+></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Chris, I have a couple of thing I would like for you=
+ to consider adding to HCM. I would like an outgoing email for failed payme=
+nts, when we bounce a payment because it failed HCM would generate an email=
+. Email like making a payment or you
+ have a new invoice.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Now the big request, I would like a Document folder =
+added to the &#8220;Lease Quickview&#8221; like the map folder. We are gett=
+ing emails with partial sale paperwork that has attached maps, granted ease=
+ments with maps, pipeline right of way descriptions
+ with abstract maps, and hunting club problems that the forester attach pic=
+tures. We currently have no way to put these into HCM, we can copy the writ=
+ten part in the history, but the maps and pictures won&#8217;t show. Below =
+is an example of an email with pictures
+ I need to document in the club&#8217;s file. <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">What are your thoughts<o:p></o:p></p>
+<p class=3D"MsoNormal">Thanks Richard<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman ,serif&quot;,ser=
+if">&nbsp;</span><o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"http://www.frc.us.com/"><span style=3D"fo=
+nt-size:12.0pt;text-decoration:none"><img border=3D"0" width=3D"75" height=
+=3D"77" style=3D"width:.7812in;height:.802in" id=3D"Picture_x0020_1" src=3D=
+"cid:image001.png@01D6463D.FF2D3330" alt=3D"FRC"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Richard M Capps</span></b><o:p></o=
+:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Recreational Lease Specialist</spa=
+n></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, Texa=
+s 75941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 Ext. 1013</spa=
+n><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com/"><span style=3D"color:black">www.frc.us.com</span></a></span=
+><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman ,serif&quot;,ser=
+if">&nbsp;</span><o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><i><span style=3D"font-size:7.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif">This message may contain privileged or propriet=
+ary information. It has been sent for the sole use of the intended recipien=
+t(s). If you have received this communication
+ in error, please reply to the sender and delete the message.</span></i><o:=
+p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Brenden Gill <a href=3D"mailto:bgill@fr=
+cemail.com">
+&lt;bgill@frcemail.com&gt;</a> <br>
+<b>Sent:</b> Wednesday, June 17, 2020 3:00 PM<br>
+<b>To:</b> Richard Capps <a href=3D"mailto:rcapps@frcemail.com">&lt;rcapps@=
+frcemail.com&gt;</a>; Brad Lindsey
+<a href=3D"mailto:blindsey@frcemail.com">&lt;blindsey@frcemail.com&gt;</a><=
+br>
+<b>Cc:</b> Donald Dietz <a href=3D"mailto:ddietz@frcemail.com">&lt;ddietz@f=
+rcemail.com&gt;</a>; Tim Gahl
+<a href=3D"mailto:tgahl@frcemail.com">&lt;tgahl@frcemail.com&gt;</a>; Curti=
+s Jackson <a href=3D"mailto:cjackson@frcemail.com">
+&lt;cjackson@frcemail.com&gt;</a>; Shannon Taylor <a href=3D"mailto:staylor=
+@frcemail.com">
+&lt;staylor@frcemail.com&gt;</a><br>
+<b>Subject:</b> Neches Wildlife Damages<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Richard,<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Attached is the bill and the estimate for the dirt s=
+tolen by the club.&nbsp; Work is completed including filling in the deep pi=
+t in the plantation.&nbsp; We still need to address the campsites, hardwood=
+ logs and yesterday Foundation (oilfield) company
+ complained about the hunters vandalizing locations.&nbsp; The north end of=
+ the lease has no locked gates.&nbsp; We should get together to discuss our=
+ path forward as soon as you can.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Brenden<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman ,serif&quot;,s=
+erif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"http://www.frc.us.com/"><span style=3D"fo=
+nt-size:12.0pt;text-decoration:none"><img border=3D"0" width=3D"75" height=
+=3D"77" style=3D"width:.7812in;height:.802in" id=3D"Picture_x0020_2" src=3D=
+"cid:image001.png@01D6463D.FF2D3330" alt=3D"FRC"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif">Brenden Gill | Area Manager</span></b><o:p></o=
+:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif">Forest Resource Consultants, Inc.</span></b><o=
+:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif">1582 US Hwy 96 N&nbsp; | Silsbee, Texas&nbsp; 776=
+56</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif">Office: (409) 385-5296 Ext 3003
+</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif">Cell: (409) 828-0104</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif">Visit us at:&nbsp;</span><span style=3D"font-size=
+:12.0pt;font-family:&quot;Verdana&quot;,sans-serif"><a href=3D"http://www.f=
+rc.us.com/"><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quo=
+t;,sans-serif;color:black;text-decoration:none">www.frc.us.com</span></a></=
+span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><i><span style=3D"font-size:7.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif">This message may contain privileged or propriet=
+ary information. It has been sent for the sole use of the intended recipien=
+t(s). If you have received this communication
+ in error, please reply to the sender and delete the message.</span></i><o:=
+p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</blockquote>
+<pre>-- <o:p></o:p></pre>
+<pre>__________________________________<o:p></o:p></pre>
+<pre>~Christopher Gray, Bandwise LLC<o:p></o:p></pre>
+<pre><a href=3D"http://www.bandwise.com/">http://www.bandwise.com/</a><o:p>=
+</o:p></pre>
+<pre>Cell: 318-422-6577<o:p></o:p></pre>
+</div>
+</body>
+</html>
+
+--_000_f58070f6cabc4e66987a2d61222221f3frcemailcom_--
+
+--_004_f58070f6cabc4e66987a2d61222221f3frcemailcom_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=2404;
+	creation-date="Fri, 19 Jun 2020 18:31:55 GMT";
+	modification-date="Fri, 19 Jun 2020 18:31:55 GMT"
+Content-ID: <image001.png@01D6463D.FF2D3330>
+Content-Transfer-Encoding: base64
+
+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
+AABJRU5ErkJggg==
+
+--_004_f58070f6cabc4e66987a2d61222221f3frcemailcom_--

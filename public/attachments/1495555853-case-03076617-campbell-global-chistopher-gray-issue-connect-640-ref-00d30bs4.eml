@@ -1,0 +1,2387 @@
+Return-path: <support=docusign.com__1eacag8b6zpkec34@7g9qcq7iwlwi.3-bs4eai.na2.bnc.salesforce.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Tue, 23 May 2017 10:12:49 -0500
+Received: from smtp14-chi.mta.salesforce.com ([96.43.144.77]:28663)
+	by vm.bandwise.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <support=docusign.com__1eacag8b6zpkec34@7g9qcq7iwlwi.3-bs4eai.na2.bnc.salesforce.com>)
+	id 1dDBUE-0000FN-Nt
+	for cgray@bandwise.com; Tue, 23 May 2017 10:12:38 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=docusign.com;
+	s=salesforce; t=1495552317;
+	bh=UIhe6rlb4cnSRbqoBQ8i7ThGzJsht+SdnYayT2uteKA=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	b=L202dX/jCMLl6plLD712MRcQsgILgKVSFlarmnttA0GBtMJRkQSFiFelQNwiIlNWo
+	 FFffexzAXE+WmUneb+xbECEiZd66JI2KyJPLcYg7sH+oPcExP3mlCLboGq5JaKxNY3
+	 NhOuKcj/yK4Wzt6uY73j4zSo73i1YP4LvQERnvCM=
+Received: from [10.234.65.106] ([10.234.65.106:55808] helo=na2-app2-13-chi.ops.sfdc.net)
+	by mx3-chi.mta.salesforce.com (envelope-from <support=docusign.com__1eacag8b6zpkec34@7g9qcq7iwlwi.3-bs4eai.na2.bnc.salesforce.com>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPS (cipher=DES-CBC3-SHA) 
+	id B3/1A-09681-D3154295; Tue, 23 May 2017 15:11:57 +0000
+Date: Tue, 23 May 2017 15:11:57 +0000 (GMT)
+From: "support@docusign.com" <support@docusign.com>
+To: "cgray@bandwise.com" <cgray@bandwise.com>
+Message-ID: <sePsV000000000000000000000000000000000000000000000OQEVJX00e-LnBtPXQ6SZQPe8y4VU2w@sfdc.net>
+Subject: Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue:
+ CONNECT-640    [ ref:_00D30bS4._5004013D4Yh:ref ]
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2849_610350855.1495552317236"
+X-SFDC-LK: 00D300000000bS4
+X-SFDC-User: 00540000002npsQ
+X-Sender: postmaster@salesforce.com
+X-mail_abuse_inquiries: http://www.salesforce.com/company/abuse.jsp
+X-SFDC-TLS-NoRelay: 1
+X-SFDC-Binding: 1WrIRBV94myi25uB
+X-SFDC-EmailCategory: emailPublisherEmail
+X-SFDC-EntityId: 50040000013D4Yh
+X-SFDC-Interface: internal
+X-bandwisems-MailScanner-Information: Please contact the ISP for more information
+X-bandwisems-MailScanner-ID: 1dDBUE-0000FN-Nt
+X-bandwisems-MailScanner: Found to be clean
+X-bandwisems-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=1.746, required 5, BAYES_50 1.00, DKIM_SIGNED 0.10,
+	DKIM_VALID -0.10, DKIM_VALID_AU -0.10, HTML_MESSAGE 0.00,
+	HTML_OBFUSCATE_05_10 0.26, RCVD_IN_DNSWL_LOW -0.70,
+	RCVD_IN_MSPIKE_H3 -0.01, RCVD_IN_MSPIKE_WL -0.01, SPF_PASS -0.00,
+	TRACKER_ID 1.31)
+X-bandwisems-MailScanner-SpamScore: s
+X-bandwisems-MailScanner-From: support=docusign.com__1eacag8b6zpkec34@7g9qcq7iwlwi.3-bs4eai.na2.bnc.salesforce.com
+X-Spam-Status: No
+
+------=_Part_2849_610350855.1495552317236
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chistopher,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09At this time=A0CONNECT-640=A0is still in the hands of our engineering te=
+am. Issues are prioritized off our engineering workflow and release schedul=
+e.=A0 Since we still do not have an ETA available and there are no updates =
+to provide we will be closing your support case at this time.
+
+=09=A0
+
+=09This case was only a means of tracking the issue you are experiencing, s=
+o rest assured that this does not mean that your issue was considered resol=
+ved with the engineering team. This only means that the Support team will n=
+ot be providing regular updates. As a result of us closing this case, you w=
+ill be receiving a survey which will allow you to give us feedback about ou=
+r support and services.
+
+=09=A0
+
+=09I encourage you to keep an eye out for issue CONNECT-640 on our release =
+site for future updates and fixes (www.docusign.com/support/releases <https=
+://www.docusign.com/support/releases>) and, as always, please reach out to =
+your Account Manager if you have any questions.
+
+=09=A0
+
+=09Remember, you are always welcome to visit=A0Support.DocuSign.com <https:=
+//support.docusign.com/>=A0at any time to find guides, articles, and videos=
+ that may answer any questions you have about DocuSign.=A0If you are needin=
+g assistance with an unrelated issue you can file a new case with Support v=
+ia email, the=A0DocuSign Support Center <https://support.docusign.com/login=
+?from=3D/createCase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: support@docusign.com [support@docusign.com]
+Sent: 4/20/2017 3:29 PM
+To: cgray@bandwise.com
+Subject: Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue: CONNE=
+CT-640 [ ]
+=A0
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chistopher,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09I wanted to let you know we have not forgotten about this support case a=
+nd issue submission.=A0At this time=A0CONNECT-640 is still in the hands of =
+our engineering team. Issues are prioritized off our engineering workflow a=
+nd release schedule.=A0We will update you as soon as any new information is=
+ available. While we do not have an ETA, please let us know if you have any=
+ questions for our support team or if you are no longer able to reproduce t=
+his behavior.
+
+=09=A0
+
+=09In regards to the issue itself, there are no updates to share at this ti=
+me. In another 30 days the Customer Support team will close the tracking ca=
+se associated with=A0CONNECT-640=A0if there continues to be no updates but =
+the issue will remain open with our engineering team and fixes will be comm=
+unicated via our release site at=A0www.docusign.com/support/releases <https=
+://www.docusign.com/support/releases>. In addition to this please reach out=
+ to your Account Manager if you have any questions beyond that point.
+
+=09=A0
+
+=09Remember to visit=A0Support.DocuSign.com <https://support.docusign.com/>=
+=A0at any time to find guides, articles, and videos that may answer any que=
+stions you have about DocuSign.=A0If you are needing assistance with an unr=
+elated issue you can file a new case with Support via email, the=A0DocuSign=
+ Support Center <https://support.docusign.com/login?from=3D/createCase>, or=
+ by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: support@docusign.com [support@docusign.com]
+Sent: 3/20/2017 3:00 PM
+To: cgray@bandwise.com
+Subject: Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue: CONNE=
+CT-640 [ ]
+=A0
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chistopher,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09I wanted to check in regarding issue=A0CONNECT-640 (renamed from TRI-108=
+17)=A0which is currently open in the hands of our engineering team. =A0The =
+issues they work on are=A0prioritized off of the engineering workflow and r=
+elease schedule. Taking this into account, we currently do not have any new=
+ updates for you regarding the status of this issue that was submitted on y=
+our behalf. Please rest assured that the issue has been filed and will be i=
+nvestigated by our engineering team. At this time I do not have an ETA, how=
+ever, please let us know if you have any questions for our support team or =
+if you are no longer able to reproduce this behavior.
+
+=09=A0
+
+=09Please feel free to visit=A0Support.DocuSign.com <https://support.docusi=
+gn.com/>=A0at any time to find guides, articles, and videos that may answer=
+ any questions you have about DocuSign.=A0If you are needing assistance wit=
+h an unrelated issue you can file a new case with Support via email, the=A0=
+DocuSign Support Center <https://support.docusign.com/login?from=3D/createC=
+ase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: support@docusign.com [support@docusign.com]
+Sent: 2/16/2017 10:32 AM
+To: cgray@bandwise.com
+Subject: Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]
+=A0
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chris,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09These are duplicate data sets but not duplicate triggers. For example, e=
+nvelope=A09857f126-5557-443e-a26f-ab221d868c2f in your screenshot is firing=
+ for the envelope signed event, the recipient completed event, and the enve=
+lope completed event. For envelope=A0c5eef470-8d56-4685-811a-15246b7ca4ec i=
+n your screenshot, the events are firing for the envelope being signed and =
+the recipient being completed but NOT for the envelope being completed. Thi=
+s is the inconsistency I have filed for. Based on past experience, envelope=
+ 9857 should not have 3 events. As far as what makes sense, it should repor=
+t all 3 events and report back to both listeners, 2 events to the first and=
+ 1 event to the second. I hope this helps explain the scenario. It's up to =
+our engineers to make sure that the same process happens every time and not=
+ sometimes one way and sometimes another.
+
+=09=A0
+
+=09Please feel free to visit=A0Support.DocuSign.com <https://support.docusi=
+gn.com/>=A0at any time to find guides, articles, and videos that may answer=
+ any questions you have about DocuSign.=A0If you are needing assistance wit=
+h an unrelated issue you can file a new case with Support via email, the=A0=
+DocuSign Support Center <https://support.docusign.com/login?from=3D/createC=
+ase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: Christopher Gray [cgray@bandwise.com]
+Sent: 2/16/2017 9:11 AM
+To: support@docusign.com
+Subject: Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue: [=
+ ]
+=A0
+I would like to make sure I understand. You said when my final recipient ap=
+plies their signature, both of my Connect configurations fire, completing t=
+he recipient and completing the envelope. However, DocuSign Connect include=
+s a counter-duplication mechanic, so one of these gets skipped over.
+
+The answer to the inconsistency is probably just process timing. Server beh=
+aviors happen in fractions of a second, but imagine these two events firing=
+ in inconsistent order. Sometimes, the recipient completion event fires fir=
+st, so the envelope completion gets skipped (these are my anomalous records=
+). Most of the time, the envelope completion fires first while the recipien=
+t event is skipped, resulting in what is usually a good workflow.
+
+Also, as an aside, DocuSign Connect consistently duplicates its logging -- =
+sometimes 3 times. See attached image. This is minor issue to me, but it ma=
+y be something your engineers should be aware of.
+
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com <http://www.bandwise.com/>
+
+=A0
+
+On 2/16/2017 10:54 AM, support@docusign.com <mailto:support@docusign.com> w=
+rote:
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chris,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09I am 90% certain that I know what the problem is but I can't account for=
+ the inconsistency in the behavior. DocuSign Connect will drop statuses tha=
+t occur at the same time and only report back 1 instance of completion. In =
+this case, your envelopes should only report back either the envelope compl=
+eting or the recipient completing depending on which trigger fires last. No=
+rmally I would expect that a final recipient would not report a status of c=
+ompleted and instead you would only ever receive an envelope completed stat=
+us. It appears our code reports that in reverse. The envelope is completed =
+and then we report the recipient is completed skipping over the envelope co=
+mplete status. I find this to be odd. In addition to this, since the final =
+recipient ALWAYS completes the envelope at the same time the envelope is co=
+mpleted for your workflow, there should never be a time where you report ba=
+ck both statuses. This does not appear to be the case.
+=09
+=09Due to these odd and inconsistent behaviors I wanted to report to you th=
+at issue "TRI-10817 -=A0Connect not reporting back consistently to custom l=
+istener" has been filed and is currently open in the hands of our engineeri=
+ng team. =A0The issues they work on are=A0prioritized off of the engineerin=
+g workflow and release schedule and as such we do not have an ETA we can pr=
+ovide as to when this issue will be resolved.=A0Please rest assured, though=
+, that the issue has been filed and will be investigated by our engineering=
+ team. Please let us know if you have any questions for our support team or=
+ if you are no longer able to reproduce this behavior.
+
+=09=A0
+
+=09Due to limited bandwidth, filed issues with our engineering team that ar=
+e not P1 (system down, unable to function) are reviewed for updates every 3=
+0 days. If you would like an update on any issue prior to that 30 day perio=
+d, please reply to this email thread and we will check on the status of the=
+ filed issue and report back any updates as soon as possible.
+
+=09=A0
+
+=09Please feel free to visit=A0Support.DocuSign.com <https://support.docusi=
+gn.com/>=A0at any time to find guides, articles, and videos that may answer=
+ any questions you have about DocuSign.=A0If you are needing assistance wit=
+h an unrelated issue you can file a new case with Support via email, the=A0=
+DocuSign Support Center <https://support.docusign.com/login?from=3D/createC=
+ase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: Christopher Gray [cgray@bandwise.com <mailto:cgray@bandwise.com>]
+Sent: 2/16/2017 7:47 AM
+To: support@docusign.com <mailto:support@docusign.com>
+Subject: Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]
+=A0
+Another happened this morning.
+
+c5eef470-8d56-4685-811a-15246b7ca4ec
+
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com <http://www.bandwise.com/>
+
+=A0
+
+On 2/16/2017 9:35 AM, support@docusign.com <mailto:support@docusign.com> wr=
+ote:
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chistopher,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09Much appreciated! I will dig in this morning and report back with what I=
+ find.
+
+=09=A0
+
+=09Please feel free to visit=A0Support.DocuSign.com <https://support.docusi=
+gn.com/>=A0at any time to find guides, articles, and videos that may answer=
+ any questions you have about DocuSign.=A0If you are needing assistance wit=
+h an unrelated issue you can file a new case with Support via email, the=A0=
+DocuSign Support Center <https://support.docusign.com/login?from=3D/createC=
+ase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: Christopher Gray [cgray@bandwise.com <mailto:cgray@bandwise.com>]
+Sent: 2/16/2017 7:21 AM
+To: support@docusign.com <mailto:support@docusign.com>
+Subject: Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]
+=A0
+The following IDs appear to have done the same thing. All took place this m=
+onth.
+
+984757a7-2248-4c73-bf4e-7962eaa0060f
+27e91ec9-23db-4bc1-b271-e2764fe26756
+
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com <http://www.bandwise.com/>
+
+=A0
+
+On 2/15/2017 5:40 PM, support@docusign.com <mailto:support@docusign.com> wr=
+ote:
+
+=A0=A0
+=09
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHqN&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Hello=A0Chistopher,
+
+=09=A0
+
+=09This is Brandon=A0with DocuSign Customer Support. I am following up on c=
+ase 03076617=A0that was opened on=A02/15/2017=A0for your account 11736254-n=
+a2.
+
+=09=A0
+
+=09I am currently investigating envelopes that are successfully writing bac=
+k versus the sample envelope that did not. Can you provide me some addition=
+al envelopes ID's that did not write back to your listener? The more data, =
+the better.
+
+=09=A0
+
+=09Please feel free to visit=A0Support.DocuSign.com <https://support.docusi=
+gn.com/>=A0at any time to find guides, articles, and videos that may answer=
+ any questions you have about DocuSign.=A0If you are needing assistance wit=
+h an unrelated issue you can file a new case with Support via email, the=A0=
+DocuSign Support Center <https://support.docusign.com/login?from=3D/createC=
+ase>, or by phone at (866) 219-4318.
+
+=09=A0
+
+=09=A0
+
+=09Thank you,
+
+=09[Inline image URL : https://c.na2.content.force.com/servlet/servlet.Imag=
+eServer?id=3D01540000001bHpo&oid=3D00D300000000bS4]
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09=A0
+
+=09Brandon V.
+
+=09DocuSign Customer Support=A0- Tier III & Escalations
+
+=09Personal hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]
+=09
+=09=A0=A0=A0
+
+--------------- Original Message ---------------
+From: Support [support@docusign.com <mailto:support@docusign.com>]
+Sent: 2/15/2017 11:45 AM
+To: cgray@bandwise.com <mailto:cgray@bandwise.com>
+Subject: DocuSign Support Case: 03076617 "Connect issues" [ ]
+=A0
+
+[Inline image URL : https://na2.salesforce.com/servlet/servlet.ImageServer?=
+id=3D015400000020Vu2&oid=3D00D300000000bS4]=A0
+=09
+=09Case Number: 03076617
+
+=09=A0
+
+=09Hello Chistopher,
+
+=09=A0
+
+=09Thank you for contacting DocuSign Customer Support. I had attached your =
+logs to this case and escalated it to our higher tier of Support to review =
+your logs and determine how DocuSign is behaving with your listeners.=A0
+
+=09=A0
+
+=09Your case will be picked up by our Tier 3 Support team, who will be reac=
+hing with for more information or a resolution. Thanks again for your time =
+and please feel free to reply to this email if you have any additional conc=
+erns.
+
+=09=A0
+
+=09Best regards,
+
+=09=A0
+
+=09Richard | DocuSign Customer Support
+
+=09docusign.com
+
+=09=A0
+
+=09For more information, check out our DocuSign Support Center <http://supp=
+ort@docusign.com> or ask a question on the DocuSign Community <https://supp=
+ort.docusign.com/community>
+
+=09=A0
+
+=09I no longer require assistance <https://support.docusign.com/en/articles=
+/How-Do-I-Close-a-Support-Case-in-DocuSign-Support-Center>
+=09
+=09=A0=A0=A0
+
+=A0
+=A0
+
+=A0
+
+=A0
+
+=A0
+=A0
+=A0ref:_00D30bS4._5004013D4Yh:ref
+------=_Part_2849_610350855.1495552317236
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D" background-color:#FFFFFF; bEditID:r1st1; bLabel:header; vertical-alig=
+n:top; height:1; text-align:left;">=A0</td></tr><tr valign=3D"top"><td cols=
+pan=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r2st1; =
+bLabel:accent1; height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1=
+" rowspan=3D"1" height=3D"300" style=3D" background-color:#FFFFFF; color:#0=
+00000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D" background-color:#FFFFFF; color:#000000; bEditID=
+:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: arial; fo=
+nt-size: 12pt;"><span style=3D"font-family: Calibri; font-size: 11pt;"><img=
+ align=3D"left" alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.co=
+m/servlet/servlet.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS=
+4"></img></span></div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">Hello=A0Chistopher,</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 11pt;">This is Brand=
+on=A0with DocuSign Customer Support. I am following up on case 03076617=A0<=
+/span><span style=3D"font-size: 14.6667px;">that was opened on=A0</span><sp=
+an style=3D"font-size: 11pt;">2/15/2017=A0</span><span style=3D"font-size: =
+11pt;">for your account 11736254-na2</span><span style=3D"font-size: 11pt;"=
+>.</span></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 14.6667px; backgroun=
+d-color: rgb(255, 255, 255);">At this time=A0</span><b style=3D"font-size: =
+14.6667px; background-color: rgb(255, 255, 255);"><i>CONNECT-640</i></b><sp=
+an style=3D"font-size: 14.6667px; background-color: rgb(255, 255, 255);">=
+=A0is still in the hands of our engineering team. Issues are prioritized of=
+f our engineering workflow and release schedule.</span><font face=3D"Calibr=
+i" style=3D"font-size: 12pt;"><span style=3D"font-size: 14.6667px;">=A0 Sin=
+ce we still do not have an ETA available and there are no updates to provid=
+e we will be closing your support case at this time.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-family: Cal=
+ibri; font-size: 14.6667px;">This case was only a means of tracking the iss=
+ue you are experiencing, so rest assured that this does not mean that your =
+issue was considered resolved with the engineering team. This only means th=
+at the Support team will not be providing regular updates. As a result of u=
+s closing this case, you will be receiving a survey which will allow you to=
+ give us feedback about our support and services.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-size: 14.66=
+67px; font-family: Calibri;">I encourage you to keep an eye out for issue <=
+/span><b style=3D"font-size: 14.6667px; font-family: Calibri;"><i>CONNECT-6=
+40</i></b><span style=3D"font-size: 14.6667px; font-family: Calibri;"> on o=
+ur release site for future updates and fixes (</span><a shape=3D"rect" href=
+=3D"https://www.docusign.com/support/releases" style=3D"font-size: 14.6667p=
+x; font-family: Calibri;" target=3D"_blank">www.docusign.com/support/releas=
+es</a><span style=3D"font-size: 14.6667px; font-family: Calibri;">) and, as=
+ always, please reach out to your Account Manager if you have any questions=
+.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-family: Cal=
+ibri; font-size: 14.6667px; background-color: rgb(255, 255, 255);">Remember=
+, you are always welcome to visit=A0<a shape=3D"rect" href=3D"https://suppo=
+rt.docusign.com/" target=3D"_blank">Support.DocuSign.com</a>=A0at any time =
+to find guides, articles, and videos that may answer any questions you have=
+ about DocuSign.=A0</span><span style=3D"font-family: Calibri; font-size: 1=
+4.6667px; background-color: rgb(255, 255, 255);">If you are needing assista=
+nce with an unrelated issue you can </span><font face=3D"Calibri" style=3D"=
+font-family: Calibri; background-color: rgb(255, 255, 255);"><span style=3D=
+"font-size: 14.6666669845581px;">file a new case with Support via email, th=
+e=A0<a shape=3D"rect" href=3D"https://support.docusign.com/login?from=3D/cr=
+eateCase" target=3D"_blank">DocuSign Support Center</a>, or by phone at (86=
+6) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=
+=3D"https://c.na2.content.force.com/servlet/servlet.ImageServer?id=3D015400=
+00001bHpo&amp;oid=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 9pt; font-weight: bol=
+d; font-family: Helvetica;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"color: rgb(136, 136, 136); font-=
+family: Helvetica; font-size: 9pt;">DocuSign Customer Support</span><span s=
+tyle=3D"color: rgb(136, 136, 136); font-family: Helvetica; font-size: 9pt; =
+background-color: rgb(255, 255, 255);">=A0</span><span style=3D"color: rgb(=
+136, 136, 136); font-family: Helvetica; font-size: 9pt; background-color: r=
+gb(255, 255, 255);">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 12px; color: rgb(136,=
+ 136, 136); font-family: Helvetica;">Personal hours of availability: 0700 -=
+ 1530 PT [UTC -8:00(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D" background-color:#FFFFFF; bEditID:r4st1; bLabel:accent2; height:5;">=
+=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D" b=
+ackground-color:#FFFFFF; bEditID:r5st1; bLabel:footer; vertical-align:top; =
+height:100; text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=
+=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r6st1; bLa=
+bel:accent3; height:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> support@docusign.com [support@docusign.com]<br clear=3D"none">
+<b>Sent:</b> 4/20/2017 3:29 PM<br clear=3D"none">
+<b>To:</b> cgray@bandwise.com<br clear=3D"none">
+<b>Subject:</b> Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue=
+: CONNECT-640 [ ]<br clear=3D"none">
+=A0
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D" background-color:#FFFFFF; bEditID:r1st1; bLabel:header; vertical-alig=
+n:top; height:1; text-align:left;">=A0</td></tr><tr valign=3D"top"><td cols=
+pan=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r2st1; =
+bLabel:accent1; height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1=
+" rowspan=3D"1" height=3D"300" style=3D" background-color:#FFFFFF; color:#0=
+00000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D" background-color:#FFFFFF; color:#000000; bEditID=
+:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: arial; fo=
+nt-size: 12pt;"><span style=3D"font-family: Calibri; font-size: 11pt;"><img=
+ align=3D"left" alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.co=
+m/servlet/servlet.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS=
+4"></img></span></div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">Hello=A0Chistopher,</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 11pt;">This is Brand=
+on=A0with DocuSign Customer Support. I am following up on case 03076617=A0<=
+/span><span style=3D"font-size: 14.6667px;">that was opened on=A0</span><sp=
+an style=3D"font-size: 11pt;">2/15/2017=A0</span><span style=3D"font-size: =
+11pt;">for your account 11736254-na2</span><span style=3D"font-size: 11pt;"=
+>.</span></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 14.6667px;">I wanted=
+ to let you know we have not forgotten about this support case and issue su=
+bmission.=A0</span><font face=3D"Calibri" style=3D"font-size: 12pt;"><span =
+style=3D"font-size: 14.6667px;">At this time=A0<b><i>CONNECT-640</i></b> is=
+ still in the hands of our engineering team. Issues are prioritized off our=
+ engineering workflow and release schedule.=A0</span></font><span style=3D"=
+font-size: 14.6667px;">We will update you as soon as any new information is=
+ available. While we do not have an ETA, please let us know if you have any=
+ questions for our support team or if you are no longer able to reproduce t=
+his behavior.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><font face=3D"Calibri" style=3D=
+"font-size: 12pt;"><span style=3D"font-size: 14.6667px;">In regards to the =
+issue itself, there are no updates to share at this time. In another 30 day=
+s the Customer Support team will close the tracking case associated with=A0=
+</span></font><span style=3D"font-family: Calibri; font-size: 14.6667px;"><=
+b><i>CONNECT-640</i></b></span><span style=3D"font-size: 14.6667px; font-fa=
+mily: Calibri;">=A0if there continues to be no updates but the issue will r=
+emain open with our engineering team and fixes will be communicated via our=
+ release site at=A0</span><a shape=3D"rect" href=3D"https://www.docusign.co=
+m/support/releases" style=3D"font-size: 14.6667px; font-family: Calibri;" t=
+arget=3D"_blank">www.docusign.com/support/releases</a><span style=3D"font-s=
+ize: 12pt;">. </span><span style=3D"font-size: 14.6667px; font-family: Cali=
+bri;">In addition to this please reach out to your Account Manager if you h=
+ave any questions beyond that point.</span></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: arial; font=
+-size: 12pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: arial; font=
+-size: 12pt; margin: 0in;"><span style=3D"font-family: Calibri; font-size: =
+14.6667px; background-color: rgb(255, 255, 255);">Remember to visit=A0<a sh=
+ape=3D"rect" href=3D"https://support.docusign.com/" target=3D"_blank">Suppo=
+rt.DocuSign.com</a>=A0at any time to find guides, articles, and videos that=
+ may answer any questions you have about DocuSign.=A0</span><span style=3D"=
+font-family: Calibri; font-size: 14.6667px; background-color: rgb(255, 255,=
+ 255);">If you are needing assistance with an unrelated issue you can </spa=
+n><font face=3D"Calibri" style=3D"font-family: Calibri; background-color: r=
+gb(255, 255, 255);"><span style=3D"font-size: 14.6666669845581px;">file a n=
+ew case with Support via email, the=A0<a shape=3D"rect" href=3D"https://sup=
+port.docusign.com/login?from=3D/createCase" target=3D"_blank">DocuSign Supp=
+ort Center</a>, or by phone at (866) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=
+=3D"https://c.na2.content.force.com/servlet/servlet.ImageServer?id=3D015400=
+00001bHpo&amp;oid=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 9pt; font-weight: bol=
+d; font-family: Helvetica;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"color: rgb(136, 136, 136); font-=
+family: Helvetica; font-size: 9pt;">DocuSign Customer Support</span><span s=
+tyle=3D"color: rgb(136, 136, 136); font-family: Helvetica; font-size: 9pt; =
+background-color: rgb(255, 255, 255);">=A0</span><span style=3D"color: rgb(=
+136, 136, 136); font-family: Helvetica; font-size: 9pt; background-color: r=
+gb(255, 255, 255);">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 12px; color: rgb(136,=
+ 136, 136); font-family: Helvetica;">Personal hours of availability: 0700 -=
+ 1530 PT [UTC -8:00(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D" background-color:#FFFFFF; bEditID:r4st1; bLabel:accent2; height:5;">=
+=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D" b=
+ackground-color:#FFFFFF; bEditID:r5st1; bLabel:footer; vertical-align:top; =
+height:100; text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=
+=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r6st1; bLa=
+bel:accent3; height:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> support@docusign.com [support@docusign.com]<br clear=3D"none">
+<b>Sent:</b> 3/20/2017 3:00 PM<br clear=3D"none">
+<b>To:</b> cgray@bandwise.com<br clear=3D"none">
+<b>Subject:</b> Case#: 03076617 [Campbell Global] [Chistopher Gray] - Issue=
+: CONNECT-640 [ ]<br clear=3D"none">
+=A0
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D" background-color:#FFFFFF; bEditID:r1st1; bLabel:header; vertical-alig=
+n:top; height:1; text-align:left;">=A0</td></tr><tr valign=3D"top"><td cols=
+pan=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r2st1; =
+bLabel:accent1; height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1=
+" rowspan=3D"1" height=3D"300" style=3D" background-color:#FFFFFF; color:#0=
+00000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D" background-color:#FFFFFF; color:#000000; bEditID=
+:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: arial; fo=
+nt-size: 12pt;"><span style=3D"font-family: Calibri; font-size: 11pt;"><img=
+ align=3D"left" alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.co=
+m/servlet/servlet.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS=
+4"></img></span></div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">Hello=A0Chistopher,</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 11pt;">This is Brand=
+on=A0with DocuSign Customer Support. I am following up on case 03076617=A0<=
+/span><span style=3D"font-size: 14.6667px;">that was opened on=A0</span><sp=
+an style=3D"font-size: 11pt;">2/15/2017=A0</span><span style=3D"font-size: =
+11pt;">for your account 11736254-na2</span><span style=3D"font-size: 11pt;"=
+>.</span></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;"><span style=3D"font-size: 14.6667px;">I wanted=
+ to check in regarding issue=A0</span><b style=3D"font-size: 14.6667px;"><i=
+>CONNECT-640 (renamed from TRI-10817)</i></b><span style=3D"font-size: 14.6=
+667px;">=A0which is currently open in the hands of our engineering team. =
+=A0The issues they work on are=A0prioritized off of the engineering workflo=
+w and release schedule. Taking this into account, w</span><span style=3D"fo=
+nt-size: 14.6667px;">e currently do not have any new updates for you regard=
+ing the status of this issue that was submitted on your behalf. Please rest=
+ assured that the issue has been filed and will be investigated by our engi=
+neering team. At this time I do not have an ETA, however, please let us kno=
+w if you have any questions for our support team or if you are no longer ab=
+le to reproduce this behavior.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-family: Cal=
+ibri; font-size: 14.6667px; background-color: rgb(255, 255, 255);">Please f=
+eel free to visit=A0<a shape=3D"rect" href=3D"https://support.docusign.com/=
+" target=3D"_blank">Support.DocuSign.com</a>=A0at any time to find guides, =
+articles, and videos that may answer any questions you have about DocuSign.=
+=A0</span><span style=3D"font-family: Calibri; font-size: 14.6667px; backgr=
+ound-color: rgb(255, 255, 255);">If you are needing assistance with an unre=
+lated issue you can </span><font face=3D"Calibri" style=3D"font-family: Cal=
+ibri; background-color: rgb(255, 255, 255);"><span style=3D"font-size: 14.6=
+666669845581px;">file a new case with Support via email, the=A0<a shape=3D"=
+rect" href=3D"https://support.docusign.com/login?from=3D/createCase" target=
+=3D"_blank">DocuSign Support Center</a>, or by phone at (866) 219-4318.</sp=
+an></font></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family: Calibri; fo=
+nt-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=
+=3D"https://c.na2.content.force.com/servlet/servlet.ImageServer?id=3D015400=
+00001bHpo&amp;oid=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;"><span style=3D"color: rgb(0, 0, 0); font-s=
+ize: 9pt; font-weight: bold;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;"><span style=3D"color: rgb(136, 136, 136); =
+font-size: 9pt;">DocuSign Customer Support</span><span style=3D"color: rgb(=
+136, 136, 136); font-size: 9pt; background-color: rgb(255, 255, 255);">=A0<=
+/span><span style=3D"color: rgb(136, 136, 136); font-size: 9pt; background-=
+color: rgb(255, 255, 255);">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-=
+spacing: normal; line-height: normal; orphans: 2; text-align: start; text-i=
+ndent: 0px; text-transform: none; white-space: normal; widows: 2; word-spac=
+ing: 0px; -webkit-text-stroke-width: 0px; color: rgb(60, 60, 60); font-fami=
+ly: Helvetica; font-size: 10pt;"><span style=3D"font-size: 12px; color: rgb=
+(136, 136, 136);">Personal hours of availability: 0700 - 1530 PT [UTC -8:00=
+(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D" background-color:#FFFFFF; bEditID:r4st1; bLabel:accent2; height:5;">=
+=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D" b=
+ackground-color:#FFFFFF; bEditID:r5st1; bLabel:footer; vertical-align:top; =
+height:100; text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=
+=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r6st1; bLa=
+bel:accent3; height:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> support@docusign.com [support@docusign.com]<br clear=3D"none">
+<b>Sent:</b> 2/16/2017 10:32 AM<br clear=3D"none">
+<b>To:</b> cgray@bandwise.com<br clear=3D"none">
+<b>Subject:</b> Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]<br =
+clear=3D"none">
+=A0
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D" background-color:#FFFFFF; bEditID:r1st1; bLabel:header; vertical-alig=
+n:top; height:1; text-align:left;">=A0</td></tr><tr valign=3D"top"><td cols=
+pan=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r2st1; =
+bLabel:accent1; height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1=
+" rowspan=3D"1" height=3D"300" style=3D" background-color:#FFFFFF; color:#0=
+00000; bEditID:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D" background-color:#FFFFFF; color:#000000; bEditID=
+:r3st1; bLabel:main; font-size:12pt; font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: arial; fo=
+nt-size: 12pt;"><span style=3D"font-family: Calibri; font-size: 11pt;"><img=
+ align=3D"left" alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.co=
+m/servlet/servlet.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS=
+4"></img></span></div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family: Calibri; =
+font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">Hello=A0Chris,</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 11pt;">This is Brandon=A0with DocuSign Cu=
+stomer Support. I am following up on case 03076617=A0</span><span style=3D"=
+font-size: 14.66px;">that was opened on=A0</span><span style=3D"font-size: =
+11pt;">2/15/2017=A0</span><span style=3D"font-size: 11pt;">for your account=
+ 11736254-na2</span><span style=3D"font-size: 11pt;">.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">These are duplicate data sets but not duplicate triggers. For examp=
+le, envelope=A09857f126-5557-443e-a26f-ab221d868c2f in your screenshot is f=
+iring for the envelope signed event, the recipient completed event, and the=
+ envelope completed event. For envelope=A0c5eef470-8d56-4685-811a-15246b7ca=
+4ec in your screenshot, the events are firing for the envelope being signed=
+ and the recipient being completed but NOT for the envelope being completed=
+. This is the inconsistency I have filed for. Based on past experience, env=
+elope 9857 should not have 3 events. As far as what makes sense, it should =
+report all 3 events and report back to both listeners, 2 events to the firs=
+t and 1 event to the second. I hope this helps explain the scenario. It&#39=
+;s up to our engineers to make sure that the same process happens every tim=
+e and not sometimes one way and sometimes another.</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 14.66px; background-color: rgb(255, 255, =
+255);">Please feel free to visit=A0<a shape=3D"rect" href=3D"https://suppor=
+t.docusign.com/" target=3D"_blank">Support.DocuSign.com</a>=A0at any time t=
+o find guides, articles, and videos that may answer any questions you have =
+about DocuSign.=A0</span><span style=3D"font-size: 14.66px; background-colo=
+r: rgb(255, 255, 255);">If you are needing assistance with an unrelated iss=
+ue you can </span><font face=3D"Calibri" style=3D"font-size: 16px; backgrou=
+nd-color: rgb(255, 255, 255);"><span style=3D"font-size: 14.66px;">file a n=
+ew case with Support via email, the=A0<a shape=3D"rect" href=3D"https://sup=
+port.docusign.com/login?from=3D/createCase" target=3D"_blank">DocuSign Supp=
+ort Center</a>, or by phone at (866) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri; font-size:=
+ 11pt;"><span style=3D"font-size: 11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=
+=3D"https://c.na2.content.force.com/servlet/servlet.ImageServer?id=3D015400=
+00001bHpo&amp;oid=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-family: Helvetica; font-siz=
+e: 9pt; font-weight: bold;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"color: rgb(136, 136, 136); font-=
+family: Helvetica; font-size: 9pt;">DocuSign Customer Support</span><span s=
+tyle=3D"color: rgb(136, 136, 136); font-family: Helvetica; font-size: 9pt; =
+background-color: rgb(255, 255, 255);">=A0</span><span style=3D"color: rgb(=
+136, 136, 136); font-family: Helvetica; font-size: 9pt; background-color: r=
+gb(255, 255, 255);">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0); font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 12px; color: rgb(136,=
+ 136, 136); font-family: Helvetica;">Personal hours of availability: 0700 -=
+ 1530 PT [UTC -8:00(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D" background-color:#FFFFFF; bEditID:r4st1; bLabel:accent2; height:5;">=
+=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D" b=
+ackground-color:#FFFFFF; bEditID:r5st1; bLabel:footer; vertical-align:top; =
+height:100; text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=
+=3D"1" rowspan=3D"1" style=3D" background-color:#FFFFFF; bEditID:r6st1; bLa=
+bel:accent3; height:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> Christopher Gray [cgray@bandwise.com]<br clear=3D"none">
+<b>Sent:</b> 2/16/2017 9:11 AM<br clear=3D"none">
+<b>To:</b> support@docusign.com<br clear=3D"none">
+<b>Subject:</b> Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] - I=
+ssue: [ ]<br clear=3D"none">
+=A0
+<p>I would like to make sure I understand. You said when my final recipient=
+ applies their signature, both of my Connect configurations fire, completin=
+g the recipient and completing the envelope. However, DocuSign Connect incl=
+udes a counter-duplication mechanic, so one of these gets skipped over.</p>
+
+<p>The answer to the inconsistency is probably just process timing. Server =
+behaviors happen in fractions of a second, but imagine these two events fir=
+ing in inconsistent order. Sometimes, the recipient completion event fires =
+first, so the envelope completion gets skipped (these are my anomalous reco=
+rds). Most of the time, the envelope completion fires first while the recip=
+ient event is skipped, resulting in what is usually a good workflow.</p>
+
+<p>Also, as an aside, DocuSign Connect consistently duplicates its logging =
+-- sometimes 3 times. See attached image. This is minor issue to me, but it=
+ may be something your engineers should be aware of.</p>
+
+<div class=3D"moz-signature">__________________________________<br clear=3D=
+"none">
+~Chris G.<br clear=3D"none">
+Bandwise LLC<br clear=3D"none">
+<a shape=3D"rect" href=3D"http://www.bandwise.com/" target=3D"_blank">http:=
+//www.bandwise.com</a><br clear=3D"none">
+<br clear=3D"none">
+=A0</div>
+
+<div class=3D"moz-cite-prefix">On 2/16/2017 10:54 AM, <a shape=3D"rect" cla=
+ss=3D"moz-txt-link-abbreviated" href=3D"mailto:support@docusign.com" target=
+=3D"_blank">support@docusign.com</a> wrote:</div>
+
+<blockquote cite=3D"mid:pk6Dd000000000000000000000000000000000000000000000O=
+LH8AF000dUeduuQRZq-lfRrHt0ODQ@sfdc.net">
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D"                 background-color:#FFFFFF; bEditID:r1st1; bLabel:heade=
+r;                 vertical-align:top; height:1; text-align:left;">=A0</td>=
+</tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D"          =
+       background-color:#FFFFFF; bEditID:r2st1; bLabel:accent1;            =
+     height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=
+=3D"1" height=3D"300" style=3D"                 background-color:#FFFFFF; c=
+olor:#000000; bEditID:r3st1;                 bLabel:main; font-size:12pt; f=
+ont-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D"                         background-color:#FFFFFF=
+; color:#000000;                         bEditID:r3st1; bLabel:main; font-s=
+ize:12pt;                         font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                 arial; font-size: 12pt;"><span style=3D"font-family: Calib=
+ri; font-size:                             11pt;"><img align=3D"left" alt=
+=3D"" border=3D"0" src=3D"https://c.na2.content.force.com/servlet/servlet.I=
+mageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS4"></img></span></d=
+iv>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                 Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                 Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                 Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                 Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;">Hello=A0Chris,</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;"><span style=3D"font-=
+size: 11pt;">This is Brandon=A0with DocuSign Customer Support. I am followi=
+ng up on case 03076617=A0</span><span style=3D"font-size: 14.6667px;">that =
+was opened on=A0</span><span style=3D"font-size:                           =
+  11pt;">2/15/2017=A0</span><span style=3D"font-size: 11pt;">for your accou=
+nt 11736254-na2</span><span style=3D"font-size:                            =
+ 11pt;">.</span></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;"><span style=3D"font-=
+size: 14.6667px;">I am 90% certain that I know what the problem is but I ca=
+n&#39;t account for the inconsistency in the behavior. DocuSign Connect wil=
+l drop statuses that occur at the same time and only report back 1 instance=
+ of completion. In this case, your envelopes should only report back either=
+ the envelope completing or the recipient completing depending on which tri=
+gger fires last. Normally I would expect that a final recipient would not r=
+eport a status of completed and instead you would only ever receive an enve=
+lope completed status. It appears our code reports that in reverse. The env=
+elope is completed and then we report the recipient is completed skipping o=
+ver the envelope complete status. I find this to be odd. In addition to thi=
+s, since the final recipient ALWAYS completes the envelope at the same time=
+ the envelope is completed for your workflow, there should never be a time =
+where you report back both statuses. This does not appear to be the case.<b=
+r clear=3D"none">
+=09=09=09=09=09=09<br clear=3D"none">
+=09=09=09=09=09=09Due to these odd and inconsistent behaviors I wanted to r=
+eport to you that issue &quot;<b>TRI-10817 -=A0Connect not reporting back c=
+onsistently to custom listener</b>&quot; has been filed and is currently op=
+en in the hands of our engineering team. =A0The issues they work on are=A0p=
+rioritized off of the engineering workflow and release schedule and as such=
+ we do not have an ETA we can provide as to when this issue will be resolve=
+d.=A0</span><span style=3D"font-size: 14.6667px;">Please rest assured, thou=
+gh, that the issue has been filed and will be investigated by our engineeri=
+ng team. Please let us know if you have any questions for our support team =
+or if you are no longer able to reproduce this behavior.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-family: Cal=
+ibri; font-size:                             14.6667px;">Due to limited ban=
+dwidth, filed issues with our engineering team that are not P1 (system down=
+, unable to function) are reviewed for updates every 30 days. If you would =
+like an update on any issue prior to that 30 day period, please reply to th=
+is email thread and we will check on the status of the filed issue and repo=
+rt back any updates as soon as possible.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in;"><span style=3D"font-family: Cal=
+ibri; font-size:                             14.6667px; background-color: r=
+gb(255, 255,                             255);">Please feel free to visit=
+=A0<a shape=3D"rect" href=3D"https://support.docusign.com/" target=3D"_blan=
+k">Support.DocuSign.com</a>=A0at any time to find guides, articles, and vid=
+eos that may answer any questions you have about DocuSign.=A0</span><span s=
+tyle=3D"font-family: Calibri; font-size:                             14.666=
+7px; background-color: rgb(255, 255,                             255);">If =
+you are needing assistance with an unrelated issue you can </span><font fac=
+e=3D"Calibri" style=3D"font-family: Calibri;                             ba=
+ckground-color: rgb(255, 255, 255);"><span style=3D"font-size:             =
+                  14.6666669845581px;">file a new case with Support via ema=
+il, the=A0<a shape=3D"rect" href=3D"https://support.docusign.com/login?from=
+=3D/createCase" target=3D"_blank">DocuSign Support Center</a>, or by phone =
+at (866) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"color: rgb(0, 0, 0); font-family:            =
+               Calibri; font-size: 11pt; margin: 0in;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                font-size: 11pt;"><span style=3D"font-size:                =
+             11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=3D"https://c.na2.c=
+ontent.force.com/servlet/servlet.ImageServer?id=3D01540000001bHpo&amp;oid=
+=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;"><br clear=3D"none">
+=09=09=09=09=09=09<span style=3D"font-family: Helvetica;                   =
+          font-size: 9pt; font-weight: bold;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;"><span style=3D"color: rgb(136, 136, 136);                       =
+      font-family: Helvetica; font-size: 9pt;">DocuSign Customer Support</s=
+pan><span style=3D"color:                             rgb(136, 136, 136); f=
+ont-family: Helvetica;                             font-size: 9pt; backgrou=
+nd-color: rgb(255,                             255, 255);">=A0</span><span =
+style=3D"color:                             rgb(136, 136, 136); font-family=
+: Helvetica;                             font-size: 9pt; background-color: =
+rgb(255,                             255, 255);">- Tier III &amp; Escalatio=
+ns</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+               font-style: normal; font-variant-ligatures:                 =
+          normal; font-variant-caps: normal;                           font=
+-weight: normal; letter-spacing: normal;                           line-hei=
+ght: normal; orphans: 2; text-align:                           start; text-=
+indent: 0px; text-transform: none;                           white-space: n=
+ormal; widows: 2; word-spacing:                           0px; -webkit-text=
+-stroke-width: 0px;                           font-family: Calibri; font-si=
+ze: 11pt;"><span style=3D"font-size: 12px; color: rgb(136, 136,            =
+                 136); font-family: Helvetica;">Personal hours of availabil=
+ity: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D"                 background-color:#FFFFFF; bEditID:r4st1; bLabel:accent=
+2;                 height:5;">=A0</td></tr><tr valign=3D"top"><td colspan=
+=3D"1" rowspan=3D"1" style=3D"                 background-color:#FFFFFF; bE=
+ditID:r5st1; bLabel:footer;                 vertical-align:top; height:100;=
+ text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspa=
+n=3D"1" style=3D"                 background-color:#FFFFFF; bEditID:r6st1; =
+bLabel:accent3;                 height:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> Christopher Gray [<a shape=3D"rect" class=3D"moz-txt-link-abbr=
+eviated" href=3D"mailto:cgray@bandwise.com" target=3D"_blank">cgray@bandwis=
+e.com</a>]<br clear=3D"none">
+<b>Sent:</b> 2/16/2017 7:47 AM<br clear=3D"none">
+<b>To:</b> <a shape=3D"rect" class=3D"moz-txt-link-abbreviated" href=3D"mai=
+lto:support@docusign.com" target=3D"_blank">support@docusign.com</a><br cle=
+ar=3D"none">
+<b>Subject:</b> Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]=
+<br clear=3D"none">
+=A0
+<p>Another happened this morning.</p>
+
+<p>c5eef470-8d56-4685-811a-15246b7ca4ec</p>
+
+<div class=3D"moz-signature">__________________________________<br clear=3D=
+"none">
+~Chris G.<br clear=3D"none">
+Bandwise LLC<br clear=3D"none">
+<a shape=3D"rect" href=3D"http://www.bandwise.com/" target=3D"_blank">http:=
+//www.bandwise.com</a><br clear=3D"none">
+<br clear=3D"none">
+=A0</div>
+
+<div class=3D"moz-cite-prefix">On 2/16/2017 9:35 AM, <a shape=3D"rect" clas=
+s=3D"moz-txt-link-abbreviated" href=3D"mailto:support@docusign.com" target=
+=3D"_blank">support@docusign.com</a> wrote:</div>
+
+<blockquote cite=3D"mid:igDX_000000000000000000000000000000000000000000000O=
+LH4MV00REPZc5fmTkun8RSYRJfnTQ@sfdc.net">
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D"                   background-color:#FFFFFF; bEditID:r1st1;           =
+        bLabel:header; vertical-align:top; height:1;                   text=
+-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"=
+1" style=3D"                   background-color:#FFFFFF; bEditID:r2st1;    =
+               bLabel:accent1; height:5;">=A0</td></tr><tr valign=3D"top"><=
+td colspan=3D"1" rowspan=3D"1" height=3D"300" style=3D"                   b=
+ackground-color:#FFFFFF; color:#000000;                   bEditID:r3st1; bL=
+abel:main; font-size:12pt;                   font-family:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D"                           background-color:#FFFF=
+FF; color:#000000;                           bEditID:r3st1; bLabel:main; fo=
+nt-size:12pt;                           font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                   arial; font-size: 12pt;"><span style=3D"font-family: Cal=
+ibri; font-size:                               11pt;"><img align=3D"left" a=
+lt=3D"" border=3D"0" src=3D"https://c.na2.content.force.com/servlet/servlet=
+.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS4"></img></span><=
+/div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                   Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                   Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                   Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0); font-family:          =
+                   Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">Hello=A0Chistopher,</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;"><span style=3D"font-size:              =
+                 11pt;">This is Brandon=A0with DocuSign Customer Support. I=
+ am following up on case 03076617=A0</span><span style=3D"font-size: 14.66p=
+x;">that was opened on=A0</span><span style=3D"font-size:                  =
+             11pt;">2/15/2017=A0</span><span style=3D"font-size: 11pt;">for=
+ your account 11736254-na2</span><span style=3D"font-size:                 =
+              11pt;">.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;"><span style=3D"font-size:              =
+                 11pt;">Much appreciated! I will dig in this morning and re=
+port back with what I find.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;"><span style=3D"font-size:              =
+                 14.66px; background-color: rgb(255, 255,                  =
+             255);">Please feel free to visit=A0<a shape=3D"rect" href=3D"h=
+ttps://support.docusign.com/" target=3D"_blank">Support.DocuSign.com</a>=A0=
+at any time to find guides, articles, and videos that may answer any questi=
+ons you have about DocuSign.=A0</span><span style=3D"font-size: 14.66px;   =
+                            background-color: rgb(255, 255, 255);">If you a=
+re needing assistance with an unrelated issue you can </span><font face=3D"=
+Calibri" style=3D"font-size: 16px; background-color:                       =
+        rgb(255, 255, 255);"><span style=3D"font-size: 14.66px;">file a new=
+ case with Support via email, the=A0<a shape=3D"rect" href=3D"https://suppo=
+rt.docusign.com/login?from=3D/createCase" target=3D"_blank">DocuSign Suppor=
+t Center</a>, or by phone at (866) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                  font-size: 11pt;"><span style=3D"font-size:              =
+                 11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;"><img align=3D"left" =
+alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.com/servlet/servle=
+t.ImageServer?id=3D01540000001bHpo&amp;oid=3D00D300000000bS4" style=3D"font=
+-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;"><span style=3D"font-=
+family: Helvetica; font-size:                               9pt; font-weigh=
+t: bold;">Brandon V.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;"><span style=3D"color=
+: rgb(136, 136, 136);                               font-family: Helvetica;=
+ font-size: 9pt;">DocuSign Customer Support</span><span style=3D"color:    =
+                           rgb(136, 136, 136); font-family:                =
+               Helvetica; font-size: 9pt;                               bac=
+kground-color: rgb(255, 255, 255);">=A0</span><span style=3D"color: rgb(136=
+, 136, 136);                               font-family: Helvetica; font-siz=
+e: 9pt;                               background-color: rgb(255, 255, 255);=
+">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                 font-style: normal; font-variant-ligatures:               =
+              normal; font-variant-caps: normal;                           =
+  font-weight: normal; letter-spacing: normal;                             =
+line-height: normal; orphans: 2; text-align:                             st=
+art; text-indent: 0px; text-transform:                             none; wh=
+ite-space: normal; widows: 2;                             word-spacing: 0px=
+;                             -webkit-text-stroke-width: 0px; font-family: =
+                            Calibri; font-size: 11pt;"><span style=3D"font-=
+size: 12px; color: rgb(136,                               136, 136); font-f=
+amily: Helvetica;">Personal hours of availability: 0700 - 1530 PT [UTC -8:0=
+0(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D"                   background-color:#FFFFFF; bEditID:r4st1;            =
+       bLabel:accent2; height:5;">=A0</td></tr><tr valign=3D"top"><td colsp=
+an=3D"1" rowspan=3D"1" style=3D"                   background-color:#FFFFFF=
+; bEditID:r5st1;                   bLabel:footer; vertical-align:top; heigh=
+t:100;                   text-align:left;">=A0</td></tr><tr valign=3D"top">=
+<td colspan=3D"1" rowspan=3D"1" style=3D"                   background-colo=
+r:#FFFFFF; bEditID:r6st1;                   bLabel:accent3; height:5;">=A0<=
+/td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> Christopher Gray [<a shape=3D"rect" class=3D"moz-txt-link-abbr=
+eviated" href=3D"mailto:cgray@bandwise.com" target=3D"_blank">cgray@bandwis=
+e.com</a>]<br clear=3D"none">
+<b>Sent:</b> 2/16/2017 7:21 AM<br clear=3D"none">
+<b>To:</b> <a shape=3D"rect" class=3D"moz-txt-link-abbreviated" href=3D"mai=
+lto:support@docusign.com" target=3D"_blank">support@docusign.com</a><br cle=
+ar=3D"none">
+<b>Subject:</b> Re: Case#: 03076617 [Campbell Global] [Chistopher Gray] [ ]=
+<br clear=3D"none">
+=A0
+<p>The following IDs appear to have done the same thing. All took place thi=
+s month.</p>
+
+<p>984757a7-2248-4c73-bf4e-7962eaa0060f<br clear=3D"none">
+27e91ec9-23db-4bc1-b271-e2764fe26756</p>
+
+<div class=3D"moz-signature">__________________________________<br clear=3D=
+"none">
+~Chris G.<br clear=3D"none">
+Bandwise LLC<br clear=3D"none">
+<a shape=3D"rect" href=3D"http://www.bandwise.com/" target=3D"_blank">http:=
+//www.bandwise.com</a><br clear=3D"none">
+<br clear=3D"none">
+=A0</div>
+
+<div class=3D"moz-cite-prefix">On 2/15/2017 5:40 PM, <a shape=3D"rect" clas=
+s=3D"moz-txt-link-abbreviated" href=3D"mailto:support@docusign.com" target=
+=3D"_blank">support@docusign.com</a> wrote:</div>
+
+<blockquote cite=3D"mid:Jg5h9000000000000000000000000000000000000000000000O=
+LFWFX00DsY3scJETf6ZGPHSSUARxA@sfdc.net">
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D"                     background-color:#FFFFFF; bEditID:r1st1;         =
+            bLabel:header; vertical-align:top; height:1;                   =
+  text-align:left;">=A0</td></tr><tr valign=3D"top"><td colspan=3D"1" rowsp=
+an=3D"1" style=3D"                     background-color:#FFFFFF; bEditID:r2=
+st1;                     bLabel:accent1; height:5;">=A0</td></tr><tr valign=
+=3D"top"><td colspan=3D"1" rowspan=3D"1" height=3D"300" style=3D"          =
+           background-color:#FFFFFF; color:#000000;                     bEd=
+itID:r3st1; bLabel:main; font-size:12pt;                     font-family:ar=
+ial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D"                             background-color:#FF=
+FFFF; color:#000000;                             bEditID:r3st1; bLabel:main=
+; font-size:12pt;                             font-family:arial;">
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);                       =
+        font-family: arial; font-size: 12pt;"><span style=3D"font-family: C=
+alibri; font-size:                                 11pt;"><img align=3D"lef=
+t" alt=3D"" border=3D"0" src=3D"https://c.na2.content.force.com/servlet/ser=
+vlet.ImageServer?id=3D01540000001bHqN&amp;oid=3D00D300000000bS4"></img></sp=
+an></div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);                       =
+        font-family: Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);                       =
+        font-family: Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);                       =
+        font-family: Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);                       =
+        font-family: Calibri; font-size: 11pt;">=A0</div>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">Hello=A0Chistopher,</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;"><span style=3D"font-size:            =
+                     11pt;">This is Brandon=A0with DocuSign Customer Suppor=
+t. I am following up on case 03076617=A0</span><span style=3D"font-size: 14=
+.66px;">that was opened on=A0</span><span style=3D"font-size:              =
+                   11pt;">2/15/2017=A0</span><span style=3D"font-size: 11pt=
+;">for your account 11736254-na2</span><span style=3D"font-size: 11pt;">.</=
+span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;"><span style=3D"font-size:            =
+                     11pt;">I am currently investigating envelopes that are=
+ successfully writing back versus the sample envelope that did not. Can you=
+ provide me some additional envelopes ID&#39;s that did not write back to y=
+our listener? The more data, the better.</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;"><span style=3D"font-size:            =
+                     14.66px; background-color: rgb(255, 255,              =
+                   255);">Please feel free to visit=A0<a shape=3D"rect" hre=
+f=3D"https://support.docusign.com/" target=3D"_blank">Support.DocuSign.com<=
+/a>=A0at any time to find guides, articles, and videos that may answer any =
+questions you have about DocuSign.=A0</span><span style=3D"font-size: 14.66=
+px;                                 background-color: rgb(255, 255, 255);">=
+If you are needing assistance with an unrelated issue you can </span><font =
+face=3D"Calibri" style=3D"font-size: 16px;                                 =
+background-color: rgb(255, 255, 255);"><span style=3D"font-size:           =
+                        14.66px;">file a new case with Support via email, t=
+he=A0<a shape=3D"rect" href=3D"https://support.docusign.com/login?from=3D/c=
+reateCase" target=3D"_blank">DocuSign Support Center</a>, or by phone at (8=
+66) 219-4318.</span></font></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; font-family: Calibri;           =
+                    font-size: 11pt;"><span style=3D"font-size:            =
+                     11pt;">Thank you,</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;"><img align=3D"left" alt=3D"" border=3D"0" src=
+=3D"https://c.na2.content.force.com/servlet/servlet.ImageServer?id=3D015400=
+00001bHpo&amp;oid=3D00D300000000bS4" style=3D"font-size: 11pt;"></img></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;">=A0</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-family: Helvetica;         =
+                        font-size: 9pt; font-weight: bold;">Brandon V.</spa=
+n></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"color: rgb(136, 136, 136);      =
+                           font-family: Helvetica; font-size: 9pt;">DocuSig=
+n Customer Support</span><span style=3D"color: rgb(136, 136, 136);         =
+                        font-family: Helvetica; font-size: 9pt;            =
+                     background-color: rgb(255, 255, 255);">=A0</span><span=
+ style=3D"color: rgb(136, 136, 136);                                 font-f=
+amily: Helvetica; font-size: 9pt;                                 backgroun=
+d-color: rgb(255, 255, 255);">- Tier III &amp; Escalations</span></p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0in; color: rgb(0, 0, 0);            =
+                   font-style: normal;                               font-v=
+ariant-ligatures: normal;                               font-variant-caps: =
+normal; font-weight:                               normal; letter-spacing: =
+normal;                               line-height: normal; orphans: 2;     =
+                          text-align: start; text-indent: 0px;             =
+                  text-transform: none; white-space: normal;               =
+                widows: 2; word-spacing: 0px;                              =
+ -webkit-text-stroke-width: 0px;                               font-family:=
+ Calibri; font-size: 11pt;"><span style=3D"font-size: 12px; color: rgb(136,=
+                                 136, 136); font-family: Helvetica;">Person=
+al hours of availability: 0700 - 1530 PT [UTC -8:00(-7:00 DST)]</span></p>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D"                     background-color:#FFFFFF; bEditID:r4st1;          =
+           bLabel:accent2; height:5;">=A0</td></tr><tr valign=3D"top"><td c=
+olspan=3D"1" rowspan=3D"1" style=3D"                     background-color:#=
+FFFFFF; bEditID:r5st1;                     bLabel:footer; vertical-align:to=
+p; height:100;                     text-align:left;">=A0</td></tr><tr valig=
+n=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D"                     bac=
+kground-color:#FFFFFF; bEditID:r6st1;                     bLabel:accent3; h=
+eight:5;">=A0</td></tr></tbody></table>
+</center>
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+<br clear=3D"none">
+--------------- Original Message ---------------<br clear=3D"none">
+<b>From:</b> Support [<a shape=3D"rect" class=3D"moz-txt-link-abbreviated" =
+href=3D"mailto:support@docusign.com" target=3D"_blank">support@docusign.com=
+</a>]<br clear=3D"none">
+<b>Sent:</b> 2/15/2017 11:45 AM<br clear=3D"none">
+<b>To:</b> <a shape=3D"rect" class=3D"moz-txt-link-abbreviated" href=3D"mai=
+lto:cgray@bandwise.com" target=3D"_blank">cgray@bandwise.com</a><br clear=
+=3D"none">
+<b>Subject:</b> DocuSign Support Case: 03076617 &quot;Connect issues&quot; =
+[ ]<br clear=3D"none">
+=A0
+<center>
+<table id=3D"topTable" cellpadding=3D"0" cellspacing=3D"0" height=3D"450" w=
+idth=3D"500"><tbody><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" styl=
+e=3D"                     background-color:#253F81; bEditID:r1st1;         =
+            bLabel:header; vertical-align:middle; height:100;              =
+       text-align:center;"><img id=3D"r1sp1" border=3D"0" src=3D"https://na=
+2.salesforce.com/servlet/servlet.ImageServer?id=3D015400000020Vu2&amp;oid=
+=3D00D300000000bS4"></img></td></tr><tr valign=3D"top"><td colspan=3D"1" ro=
+wspan=3D"1" style=3D"                     background-color:#FFFFFF; bEditID=
+:r2st1;                     bLabel:accent1; height:0;">=A0</td></tr><tr val=
+ign=3D"top"><td colspan=3D"1" rowspan=3D"1" height=3D"300" style=3D"       =
+              background-color:#FFFFFF; bEditID:r3st1;                     =
+color:#000000; bLabel:main; font-size:12pt;                     font-family=
+:arial;">
+=09=09=09<table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" height=3D"=
+400" width=3D"550"><tbody><tr valign=3D"top" height=3D"400"><td colspan=3D"=
+1" rowspan=3D"1" style=3D"                             background-color:#FF=
+FFFF; bEditID:r3st1;                             color:#000000; bLabel:main=
+; font-size:12pt;                             font-family:arial;">
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><font face=3D"Arial,                          =
+       sans-serif"><b>Case Number: </b>03076617</font></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><font face=3D"Arial,                          =
+       sans-serif">Hello Chistopher,</font></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><span style=3D"font-family:                   =
+              Arial, sans-serif; background-color:                         =
+        rgb(255, 255, 255);">Thank you for contacting DocuSign Customer Sup=
+port. I had attached your logs to this case and escalated it to our higher =
+tier of Support to review your logs and determine how DocuSign is behaving =
+with your listeners.=A0</span></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"color: rgb(0, 0, 0);"><font face=3D"Arial, =
+sans-serif"><span style=3D"background-color: rgb(255, 255,                 =
+                  255);">Your case will be picked up by our Tier 3 Support =
+team, who will be reaching with for more information or a resolution. Thank=
+s again for your time and please feel free to reply to this email if you ha=
+ve any additional concerns.</span></font></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><font face=3D"Arial,                          =
+       sans-serif">Best regards,</font></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><span style=3D"font-size:                     =
+            12pt; font-family: Arial, sans-serif;">Richard | </span><b styl=
+e=3D"font-size: 12pt;                                 font-family: Arial, s=
+ans-serif;">DocuSign Customer Support</b></div>
+
+=09=09=09=09=09=09<div style=3D"font-family: arial; color:                 =
+              rgb(0, 0, 0);"><span style=3D"font-family:                   =
+              Arial, sans-serif; font-size: 12pt;">docusign.com</span></div=
+>
+
+=09=09=09=09=09=09<div style=3D"text-align: center;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"text-align: center;">For more information, =
+check out our <a shape=3D"rect" href=3D"http://support@docusign.com" target=
+=3D"_blank">DocuSign Support Center</a> or ask a question on the <a shape=
+=3D"rect" href=3D"https://support.docusign.com/community" target=3D"_blank"=
+>DocuSign Community</a></div>
+
+=09=09=09=09=09=09<div style=3D"text-align: center;">=A0</div>
+
+=09=09=09=09=09=09<div style=3D"text-align: center;"><font face=3D"Arial, s=
+ans-serif" style=3D"font-family: arial; font-size:                         =
+        12pt;"><a shape=3D"rect" href=3D"https://support.docusign.com/en/ar=
+ticles/How-Do-I-Close-a-Support-Case-in-DocuSign-Support-Center" style=3D"f=
+ont-family: arial; font-size:                                   12pt;" targ=
+et=3D"_blank">I no longer require assistance</a></font></div>
+=09=09=09=09=09=09</td></tr></tbody></table>
+=09=09=09</td></tr><tr valign=3D"top"><td colspan=3D"1" rowspan=3D"1" style=
+=3D"                     background-color:#FFFFFF; bEditID:r4st1;          =
+           bLabel:accent2; height:0;">=A0</td></tr><tr valign=3D"top"><td c=
+olspan=3D"1" rowspan=3D"1" style=3D"                     background-color:#=
+FFFFFF; bEditID:r5st1;                     bLabel:footer; vertical-align:to=
+p; height:0;                     text-align:left;">=A0</td></tr><tr valign=
+=3D"top"><td colspan=3D"1" rowspan=3D"1" style=3D"                     back=
+ground-color:#FFFFFF; bEditID:r6st1;                     bLabel:accent3; he=
+ight:0;">=A0</td></tr></tbody></table>
+</center>
+<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D00D=
+300000000bS4&amp;esid=3D0184000000nTiHH"></img><br clear=3D"none">
+=A0<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D=
+00D300000000bS4&amp;esid=3D0184000000nTl5n"></img><br clear=3D"none">
+=A0</blockquote>
+<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D00D=
+300000000bS4&amp;esid=3D0184000000nTrTL"></img><br clear=3D"none">
+=A0</blockquote>
+<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D00D=
+300000000bS4&amp;esid=3D0184000000nTshn"></img><br clear=3D"none">
+=A0</blockquote>
+<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D00D=
+300000000bS4&amp;esid=3D0184000000nTuAi"></img><br clear=3D"none">
+=A0<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D=
+00D300000000bS4&amp;esid=3D0184000000oe90I"></img><br clear=3D"none">
+=A0<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D=
+00D300000000bS4&amp;esid=3D0184000000p8iw3"></img><br clear=3D"none">
+=A0<img src=3D"http://na2.salesforce.com/servlet/servlet.ImageServer?oid=3D=
+00D300000000bS4&esid=3D0184000000pnM3A"><br><br>ref:_00D30bS4._5004013D4Yh:=
+ref</body></html>
+------=_Part_2849_610350855.1495552317236--

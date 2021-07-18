@@ -1,0 +1,77 @@
+﻿DocuSign Support (2/15/2017, 11:22:50 AM): Thank you for contacting the DocuSign Support Department. We are researching your account and will be with you momentarily 
+DocuSign Support (2/15/2017, 11:23:06 AM): Hi Christopher, I am Emelyn of DocuSign Customer Support. I am more than glad to help you. 
+DocuSign Support (2/15/2017, 11:23:13 AM): Can you please provide me the email address associated to your DocuSign account? 
+Me (2/15/2017, 11:23:23 AM): mrichardson@campbellglobal.com 
+Me (2/15/2017, 11:23:43 AM): I work for Bandwise LLC, the web developers for this customer 
+DocuSign Support (2/15/2017, 11:24:18 AM): Thank you. One moment please. 
+DocuSign Support (2/15/2017, 11:27:40 AM): Basically, DocuSign Connect is available in corporate account. 
+Me (2/15/2017, 11:28:03 AM): Sure, I just need some assistance configuring it properly 
+DocuSign Support (2/15/2017, 11:28:19 AM): I was able to pull up a corporate account under your email address cgray@bandwise.com 
+Me (2/15/2017, 11:29:01 AM): My account was for testing only. It is not a valid account being used in this project 
+DocuSign Support (2/15/2017, 11:29:33 AM): Oh, I see. Let me double check your request here. One moment please. 
+Me (2/15/2017, 11:29:49 AM): Account #11736254 
+Me (2/15/2017, 11:29:56 AM): For Campbell Global 
+DocuSign Support (2/15/2017, 11:30:23 AM): Thank you. 
+DocuSign Support (2/15/2017, 11:33:04 AM): As per checking in your account here, it shows that you are a member of a corporate account which is one of our Plus customers thus you are entitled for a higher level of support.  I may need to transfer your chat right now to higher level. Is that okay with you? 
+Me (2/15/2017, 11:33:25 AM): Sure 
+DocuSign Support (2/15/2017, 11:33:35 AM): Thank you. Connecting you now. 
+DocuSign Support (2/15/2017, 11:34:19 AM): Thank you for contacting the DocuSign Support Department. We are researching your account and will be with you momentarily 
+Me (2/15/2017, 11:34:41 AM): Account #11736254 for Campbell Global, please. 
+DocuSign Support (2/15/2017, 11:35:01 AM): Hello, thank you for waiting. My name is Nicole, I understand that you are encountering an issue with setting up a custom Connect object. Is this correct? 
+Me (2/15/2017, 11:35:54 AM): Yes, I have a fairly simple mechanic I need it to do, but not sure how to configure it to do so properly. It is not behaving consistently, so I suspect I haven't done it properly. 
+DocuSign Support (2/15/2017, 11:37:42 AM): Unfortunately, DocuSign Customer Support will be unable to assist with setting up a custom Connect object as this is outside of our support scope.
+
+We recommend reaching out to stackoverflow.com from a free developers form or the DocuSign Account Manager in regards to getting time with Professional Services. 
+DocuSign Support (2/15/2017, 11:38:14 AM): We do have the following resources in regards to Connect to help you:
+https://support.docusign.com/en/guides/ndse-admin-guide-connect
+https://support.docusign.com/en/guides/ndse-admin-guide-custom-connect-configuration-htm 
+Me (2/15/2017, 11:38:15 AM): To be specific, I need assistance configuring Connect in the DocuSign web interface 
+DocuSign Support (2/15/2017, 11:38:49 AM): I understand, creating or modifying a custom connect object is not within our scope of support due to the level of customization required. 
+DocuSign Support (2/15/2017, 11:39:10 AM): This is, however, within Professional Services scope of support. 
+Me (2/15/2017, 11:39:13 AM): So you can't explain the Trigger Events to me? 
+DocuSign Support (2/15/2017, 11:40:12 AM): What questions do you have in regards to Trigger Events? 
+Me (2/15/2017, 11:41:18 AM): I have two configurations. I want one to fire when DocuSign receives the first signature on an envelope. The other, I want to fire when the last signature is applied. 
+Me (2/15/2017, 11:41:33 AM): Which Trigger Events do these? 
+Me (2/15/2017, 11:42:56 AM): I can see the "Document Signed/Completed" event, but I'm not sure if this is what I need. It doesn't seem to be adequate for the second function I need. 
+DocuSign Support (2/15/2017, 11:43:18 AM): The Document Signed/Completed would be for when the document is fully completed.
+The Recipient Signed/Completed would trigger when a signer completed their portion. 
+Me (2/15/2017, 11:44:37 AM): Yea, Connect is not doing that at all 
+DocuSign Support (2/15/2017, 11:44:48 AM): If you need assistance setting these up to trigger in the order you would like or it is not working the way you would like it to, you will want to reach out to stackoverflow.com or the Account Manager for time with Professional Services. 
+Me (2/15/2017, 11:46:05 AM): Your description suggests I have it configured properly, but Connect is not behaving that way. It is sending the Recipient Signed/Complete, but doesn't consistently send the Document Signed/Complete". 
+Me (2/15/2017, 11:46:24 AM): Can you provide me with the contact info of the person I need to speak to? 
+DocuSign Support (2/15/2017, 11:46:26 AM): You should be able to go to our Support site at https://support.docusign.com/ and click the login option in the top right. Once logged in, please click onto the profile picture in the top right and select "My Account," this should display the name and contact information of your Account Manager. 
+Me (2/15/2017, 11:46:40 AM): Ok 
+DocuSign Support (2/15/2017, 11:46:54 AM): You will want to let them know in your email what you're wanting to do and they will be able to assist further 
+Me (2/15/2017, 11:47:53 AM): Uh, that Account Manager is not there. 
+DocuSign Support (2/15/2017, 11:48:04 AM): Ah, please wait one moment. 
+DocuSign Support (2/15/2017, 11:48:32 AM): Thank you for holding. 
+DocuSign Support (2/15/2017, 11:48:47 AM): It appears that your account is a web plan type of account and it does not have an account manager. I apologize for this. 
+DocuSign Support (2/15/2017, 11:49:07 AM): You would either need to speak with Sales about getting time with Professional Services or to reach out to stackoverflow.com 
+Me (2/15/2017, 11:50:03 AM): Upgrade my support service or get answers from other programmers about why DocuSign Connect doesn't behave as described? 
+DocuSign Support (2/15/2017, 11:51:26 AM): You can either speak with sales about getting time with our Professional Services team to help you with your custom connect object that you're trying to build or you can reach out to a free developers forum with how you are trying to build your connect object and how it is not triggering as you would like it to be triggering. 
+DocuSign Support (2/15/2017, 11:51:53 AM): Would you like our sales number? 
+Me (2/15/2017, 11:53:21 AM): No, I don't have the authority to extend support services on this account. I'm just the developer. I will see what I can find, but this level of support has been far from satisfactory. 
+Me (2/15/2017, 11:54:14 AM): If I were having a coding issue, you would be absolutely right to point me to Stackoverflow, but this is a behavior issue with Docusign's end of the system. For you to be unable to handle it is not good. 
+DocuSign Support (2/15/2017, 11:55:18 AM): I'm sorry that you are not satitfied with the support you've received. Unfortunately, we do not support certain levels of customization which would include a custom connect object to report to another program.
+If you'd like, an option to troubleshoot your issue further is that you can create a webhook to another program to see if the triggers are properly working in another listener application to determine if it triggers as you'd like in another listener application. 
+Me (2/15/2017, 11:57:19 AM): I've done that. This appears to be an intermittent problem. SOMETIMES, the complete event fires as described, but sometimes it doesn't. It causes my records to become out of sync with DocuSign and has been a thorn in my side all year. 
+DocuSign Support (2/15/2017, 11:57:36 AM): Does the event trigger if you manually publish the XML? 
+Me (2/15/2017, 11:59:14 AM): When I test it, it works perfectly. It may even work fine for days or weeks afterwards. Then I get a call from Campbell that one or two didn't get updated as needed. I check my logs and Connect shows a completed envelope and NO completed XML published to my application. 
+DocuSign Support (2/15/2017, 11:59:35 AM): Can you see in your Connect logs if there are any error messages for those events that are not publishing? 
+Me (2/15/2017, 12:00:11 PM): No records of the complete event at all -- much less erred attempts. If they erred, I'd have something to look at. 
+Me (2/15/2017, 12:00:42 PM): Can you look up an envelope ID for me and I'll show you one that didn't behave properly? 
+DocuSign Support (2/15/2017, 12:01:00 PM): I can't see the connect request on our side from the document. I would only be able to see if the document was completed. 
+DocuSign Support (2/15/2017, 12:01:41 PM): If you'd like to call into our support and show them your connect logs for a document that was recently completed but did not publish, you could try to call into our support for a screen sharing session. 
+DocuSign Support (2/15/2017, 12:02:05 PM): However, I plead that you keep in mind that we wouldn't be able to modify your custom connect objects, only look at the logs. 
+Me (2/15/2017, 12:02:42 PM): I never needed you guys to modify them for me. I only wanted confirmation that I configured them as needed and you confirmed that I did. 
+DocuSign Support (2/15/2017, 12:04:03 PM): I just wanted to set expectations is all.
+If there was something that could be incorrect with the Connect object or the listener, we wouldn't be able to help modify it.
+Not saying that's what you are asking, just that it's outside of our support scope. 
+DocuSign Support (2/15/2017, 12:04:38 PM): If you would like to speak with one of our Phone Support representatives, please call us at 1 (800) 379-9973 with your DocuSign account number and reference this Case#: 03076617.
+
+
+As another representative will be taking this issue over, we will be placing this support case in a Pending-Closure status where it will remain for 5 days before it is automatically closed. 
+Me (2/15/2017, 12:05:07 PM): Ok, I'll be calling shortly 
+DocuSign Support (2/15/2017, 12:05:33 PM): Great! Is there anything else that we might be able to assist you with today over chat today? 
+Me (2/15/2017, 12:06:00 PM): Not at this time. 
+DocuSign Support (2/15/2017, 12:06:23 PM): Wonderful! Thank you so much for your time and we will look forward to receiving your phone call soon! 

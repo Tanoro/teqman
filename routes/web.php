@@ -2,6 +2,15 @@
 
 use Illuminate\Support\Facades\Route;
 
+# App controllers
+use App\Http\Controllers\IndexController;
+use App\Http\Controllers\Activity;
+use App\Http\Controllers\Projects;
+use App\Http\Controllers\Jobs;
+use App\Http\Controllers\Billing;
+use App\Http\Controllers\Customers;
+use App\Http\Controllers\Users;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +22,27 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/*
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+*/
+Route::get('/', [IndexController::class, 'index']);
+Route::get('/activity', [Activity::class, 'view']);
+Route::get('/billing', [Billing::class, 'index']);
+
+# Projects views
+Route::get('/projects', [Projects::class, 'list']);
+Route::get('/projects/view/{id}', [Projects::class, 'view']);
+
+# Jobs views
+Route::get('/jobs', [Jobs::class, 'list']);
+Route::get('/jobs/add', [Jobs::class, 'add']);
+Route::get('/jobs/view/{id}', [Jobs::class, 'view']);
+
+# Customers
+Route::get('/customers', [Customers::class, 'view']);
+Route::view('/customers/add', 'addcustomer');
+
+# Users
+Route::get('/users', [Users::class, 'view']);

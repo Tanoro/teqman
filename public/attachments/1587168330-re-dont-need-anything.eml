@@ -1,0 +1,896 @@
+Return-Path: <ddietz@frcemail.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP
+	id iBk5IPb1mV7/WAAA1qp4aA
+	(envelope-from <ddietz@frcemail.com>)
+	for <cgray@bandwise.com>; Fri, 17 Apr 2020 13:31:18 -0500
+Return-path: <ddietz@frcemail.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Fri, 17 Apr 2020 13:31:18 -0500
+Received: from server907a.appriver.com ([204.232.250.39]:65158 helo=server907.appriver.com)
+	by vm.bandwise.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	(Exim 4.93)
+	(envelope-from <ddietz@frcemail.com>)
+	id 1jPVli-0006OF-3r
+	for cgray@bandwise.com; Fri, 17 Apr 2020 13:31:14 -0500
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 04/17/2020 2:30:30 PM
+X-Note: SecureTide Build: 2/6/2020 4:08:38 PM UTC (2.8.16.0)
+X-Note: Filtered by 10.246.1.76
+X-Note-AR-Scan: None - PIPE
+Received: by server907.appriver.com (CommuniGate Pro PIPE 6.2.12)
+  with PIPE id 31057751; Fri, 17 Apr 2020 14:30:30 -0400
+Received: from [10.246.0.39] (HELO smtp.us.exg7.exghost.com)
+  by server907.appriver.com (CommuniGate Pro SMTP 6.2.12)
+  with ESMTPS id 31057737 for cgray@bandwise.com; Fri, 17 Apr 2020 14:30:27 -0400
+Received: from E16DN75A-S1E7.exg7.exghost.local (192.168.245.236) by
+ E16DN75A-S1E7.exg7.exghost.local (192.168.245.236) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.1979.0; Fri, 17 Apr 2020 14:30:29 -0400
+Received: from E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) by
+ E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) with mapi id
+ 15.01.1979.000; Fri, 17 Apr 2020 14:30:29 -0400
+From: Donald Dietz <ddietz@frcemail.com>
+To: Christopher Gray <cgray@bandwise.com>
+Subject: RE: Don't need anything.
+Thread-Topic: Don't need anything.
+Thread-Index: AdYU1lKcUaIWR5Y5R9e0ZVG00E2sqgALEmqAAAhWVaD//8ZNAIAAQcJg
+Date: Fri, 17 Apr 2020 18:30:29 +0000
+Message-ID: <562eba9f420342699769cf1f482a5c6f@frcemail.com>
+References: <656e7628256d4e5c912d93050fd3028f@frcemail.com>
+ <1369832b-94f8-e5c6-d8dd-473c91dbb134@bandwise.com>
+ <b8ed1d1effc14abe864f37e16bd81c1f@frcemail.com>
+ <e2787d66-7b63-42cc-d0f7-6f91ce3410f5@bandwise.com>
+In-Reply-To: <e2787d66-7b63-42cc-d0f7-6f91ce3410f5@bandwise.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [67.143.192.67]
+x-rerouted-by-exchange: 
+MIME-Version: 1.0
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_004_562eba9f420342699769cf1f482a5c6ffrcemailcom_";
+	type="multipart/alternative"
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 04/17/2020 2:30:27 PM
+X-Note: SecureTide Build: 2/6/2020 4:08:38 PM UTC (2.8.16.0)
+X-Note: Filtered by 10.246.1.76
+X-Policy: GLOBAL
+X-Primary: GLOBAL@frcemail.com
+X-Note-Sender: <ddietz@frcemail.com>
+X-Virus-Scan: V-
+X-Note-SnifferID: 0
+X-GBUdb-Analysis: 0, 10.246.0.39, Ugly c=1 p=-0.988368 Source White
+X-Signature-Violations:
+	0-0-0-32767-c
+X-Note-419: 31.2497 ms. Fail:0 Chk:1357 of 1357 total
+X-Note: VSCH-CT/SI: 0-1357/SG:1 4/17/2020 2:29:34 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->PRIVATE->
+X-Note-Sending-IP: 10.246.0.39
+X-Note-Reverse-DNS: 
+X-Note-Return-Path: ddietz@frcemail.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G681 G682 G683 G684 G702 G703 G704 G859 G872 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-bandwise-MailScanner-Information: Please contact the ISP for more information
+X-bandwise-MailScanner-ID: 1jPVli-0006OF-3r
+X-bandwise-MailScanner: Found to be clean
+X-bandwise-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-2.021, required 5, BAYES_00 -1.90, BW_FOREIGNL 0.50,
+	BW_FOREIGNL3 0.10, CPANEL_LOTS_OF_EMPTY_LINE 0.80, HTML_MESSAGE 0.00,
+	RCVD_IN_DNSWL_LOW -0.70, RCVD_IN_MSPIKE_H2 -0.82, SPF_PASS -0.00)
+X-bandwise-MailScanner-From: ddietz@frcemail.com
+X-Spam-Status: No
+
+--_004_562eba9f420342699769cf1f482a5c6ffrcemailcom_
+Content-Type: multipart/alternative;
+	boundary="_000_562eba9f420342699769cf1f482a5c6ffrcemailcom_"
+
+--_000_562eba9f420342699769cf1f482a5c6ffrcemailcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Love it!
+
+
+________________________________
+[cid:image001.png@01D614BC.570438F0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com>
+Sent: Friday, April 17, 2020 1:26 PM
+To: Donald Dietz <ddietz@frcemail.com>
+Subject: Re: Don't need anything.
+
+
+Oh, incidentally. I've thinking about what this new contract model will let=
+ me accomplish regarding Batch Renewals. Step 1 is the gentlest of the 4 st=
+eps. It simply identifies the contracts expiring and inserts prerequisite c=
+ontract records into the database so Step 2 can attach acre rates to them. =
+This model can hold a contract record in memory until you have given it the=
+ acre rates. That means we wouldn't need Step 1 anymore.
+
+You guys wanted me to make fields for the beginning and ending dates in Ste=
+p 1, so I have to delve into its code anyway. So how about I do one better?=
+ With the new contract model, I eliminate an entire step.
+
+
+On 4/17/2020 12:57 PM, Donald Dietz wrote:
+Hang in there.  I spend 3 days at home but get to office for half a day or =
+more, twice a week.  I work harder at home but internet is slow out here in=
+ the sticks so it balances out.  I prefer my office at work but its nice we=
+aring shorts and a t-shirt!!!!
+
+
+________________________________
+[cid:image001.png@01D614BC.570438F0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com><mailto:cgray@bandwise.com>
+Sent: Friday, April 17, 2020 12:53 PM
+To: Donald Dietz <ddietz@frcemail.com><mailto:ddietz@frcemail.com>
+Subject: Re: Don't need anything.
+
+
+I live alone -- except a cat. My mother keeps calling to give me the latest=
+ news on the pandemic, more news than I actually need.
+
+The work hasn't been bad. It has been years since my home computer was setu=
+p to do actual coding work, so that took some adjustment. Allen was impress=
+ed by our shop's ability to shift into work-at-home mode. We just already h=
+ad the tools for it ready ... as if we've been prepared to do it for years.=
+ :) By biggest frustration is the gyms are all closed and I get tension hea=
+daches from too much sitting if I can't get some lifts in every week.
+
+
+On 4/17/2020 11:37 AM, Donald Dietz wrote:
+Hey Chris, we are always bombarding you with stuff.  Today I am just asking=
+ about you.  How is it going? How is your family?  Are you hanging in there=
+ like the rest of us?
+
+
+________________________________
+[cid:image001.png@01D614BC.570438F0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+
+--_000_562eba9f420342699769cf1f482a5c6ffrcemailcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Times New Roman \,serif";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Love it!<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;font-family:&quo=
+t;Times New Roman&quot;,serif;color:white;text-decoration:none"><img border=
+=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;height:.8in" id=3D=
+"_x0000_i1035" src=3D"cid:image001.png@01D614BC.570438F0"></span></a><span =
+style=3D"font-size:12.0pt;line-height:105%;font-family:&quot;Times New Roma=
+n&quot;,serif"><o:p></o:p></span></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager<o:p></o:p></b></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a><o:p></=
+o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><span style=3D"font-size:7.0pt;line-he=
+ight:105%;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span><=
+/p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray &lt;cgray@bandwise.com=
+&gt; <br>
+<b>Sent:</b> Friday, April 17, 2020 1:26 PM<br>
+<b>To:</b> Donald Dietz &lt;ddietz@frcemail.com&gt;<br>
+<b>Subject:</b> Re: Don't need anything.<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p>Oh, incidentally. I've thinking about what this new contract model will =
+let me accomplish regarding Batch Renewals. Step 1 is the gentlest of the 4=
+ steps. It simply identifies the contracts expiring and inserts prerequisit=
+e contract records into the database
+ so Step 2 can attach acre rates to them. This model can hold a contract re=
+cord in memory until you have given it the acre rates. That means we wouldn=
+'t need Step 1 anymore.<o:p></o:p></p>
+<p>You guys wanted me to make fields for the beginning and ending dates in =
+Step 1, so I have to delve into its code anyway. So how about I do one bett=
+er? With the new contract model, I eliminate an entire step.<o:p></o:p></p>
+<p><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal">On 4/17/2020 12:57 PM, Donald Dietz wrote:<o:p></o:p=
+></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Hang in there.&nbsp; I spend 3 days at home but get =
+to office for half a day or more, twice a week.&nbsp; I work harder at home=
+ but internet is slow out here in the sticks so it balances out.&nbsp; I pr=
+efer my office at work but its nice wearing shorts
+ and a t-shirt!!!! <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman ,serif&quot;,s=
+erif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;text-decoration:=
+none"><img border=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;h=
+eight:.8in" id=3D"Picture_x0020_1" src=3D"cid:image001.png@01D614BC.570438F=
+0"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager</b></span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a></span>=
+<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman ,serif&quot;,s=
+erif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray <a href=3D"mailto:cgra=
+y@bandwise.com">
+&lt;cgray@bandwise.com&gt;</a> <br>
+<b>Sent:</b> Friday, April 17, 2020 12:53 PM<br>
+<b>To:</b> Donald Dietz <a href=3D"mailto:ddietz@frcemail.com">&lt;ddietz@f=
+rcemail.com&gt;</a><br>
+<b>Subject:</b> Re: Don't need anything.<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p>I live alone -- except a cat. My mother keeps calling to give me the lat=
+est news on the pandemic, more news than I actually need.<o:p></o:p></p>
+<p>The work hasn't been bad. It has been years since my home computer was s=
+etup to do actual coding work, so that took some adjustment. Allen was impr=
+essed by our shop's ability to shift into work-at-home mode. We just alread=
+y had the tools for it ready ...
+ as if we've been prepared to do it for years. :) By biggest frustration is=
+ the gyms are all closed and I get tension headaches from too much sitting =
+if I can't get some lifts in every week.<o:p></o:p></p>
+<p>&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">On 4/17/2020 11:37 AM, Donald Dietz wrote:<o:p></o:p=
+></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Hey Chris, we are always bombarding you with stuff.&=
+nbsp; Today I am just asking about you.&nbsp; How is it going? How is your =
+family?&nbsp; Are you hanging in there like the rest of us?<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;text-decoration:=
+none"><img border=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;h=
+eight:.8in" id=3D"Picture_x0020_2" src=3D"cid:image001.png@01D614BC.570438F=
+0"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager</b></span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a></span>=
+<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</blockquote>
+</blockquote>
+</div>
+</body>
+</html>
+
+--_000_562eba9f420342699769cf1f482a5c6ffrcemailcom_--
+
+--_004_562eba9f420342699769cf1f482a5c6ffrcemailcom_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=2404;
+	creation-date="Fri, 17 Apr 2020 18:30:22 GMT";
+	modification-date="Fri, 17 Apr 2020 18:30:22 GMT"
+Content-ID: <image001.png@01D614BC.570438F0>
+Content-Transfer-Encoding: base64
+
+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
+AABJRU5ErkJggg==
+
+--_004_562eba9f420342699769cf1f482a5c6ffrcemailcom_--

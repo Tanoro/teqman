@@ -1,0 +1,151 @@
+Return-Path: <ddietz@frcemail.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP
+	id exFmLxSdvF6JbQAA1qp4aA
+	(envelope-from <ddietz@frcemail.com>)
+	for <cgray@bandwise.com>; Wed, 13 May 2020 20:21:24 -0500
+Return-path: <ddietz@frcemail.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Wed, 13 May 2020 20:21:24 -0500
+Received: from server907e.appriver.com ([204.232.250.40]:58809 helo=server907.appriver.com)
+	by vm.bandwise.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+	(Exim 4.93)
+	(envelope-from <ddietz@frcemail.com>)
+	id 1jZ2Ys-00078q-Qv
+	for cgray@bandwise.com; Wed, 13 May 2020 20:21:22 -0500
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 05/13/2020 9:20:43 PM
+X-Note: SecureTide Build: 4/23/2020 1:47:34 PM UTC (2.10.0.0)
+X-Note: Filtered by 10.246.1.75
+X-Note-AR-Scan: None - PIPE
+Received: by server907.appriver.com (CommuniGate Pro PIPE 6.2.12)
+  with PIPE id 36582072; Wed, 13 May 2020 21:20:43 -0400
+Received: from [10.246.0.39] (HELO smtp.us.exg7.exghost.com)
+  by server907.appriver.com (CommuniGate Pro SMTP 6.2.12)
+  with ESMTPS id 36582067 for Cgray@bandwise.com; Wed, 13 May 2020 21:20:40 -0400
+Received: from E16DN75A-S1E7.exg7.exghost.local (192.168.245.236) by
+ E16DN75C-S1E7.exg7.exghost.local (192.168.245.238) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.1979.0; Wed, 13 May 2020 21:20:38 -0400
+Received: from E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) by
+ E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) with mapi id
+ 15.01.1979.000; Wed, 13 May 2020 21:20:38 -0400
+From: Donald Dietz <ddietz@frcemail.com>
+To: "Cgray@bandwise.com" <Cgray@bandwise.com>
+Subject: Fwd: HL status update by company/tree farm
+Thread-Topic: HL status update by company/tree farm
+Thread-Index: AdYpYCwN14Fw9L8uTMmxVHu/iYGaNwAC5hnQAAAds9AAAAv7oAAIXUuv
+Date: Thu, 14 May 2020 01:20:38 +0000
+Message-ID: <852273FB-990C-4830-A590-720D0A86DCD5@frcemail.com>
+References: <e8368fade3524c8398b94bff08527927@frcemail.com>
+ <9c2ff4f70260451b83c032ac5d64f04d@frcemail.com>,<e19abfa3d25243ddb66b3e51b08ef36c@frcemail.com>
+In-Reply-To: <e19abfa3d25243ddb66b3e51b08ef36c@frcemail.com>
+Accept-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-rerouted-by-exchange: 
+MIME-Version: 1.0
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_852273FB990C4830A590720D0A86DCD5frcemailcom_"
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 05/13/2020 9:20:40 PM
+X-Note: SecureTide Build: 4/23/2020 1:47:34 PM UTC (2.10.0.0)
+X-Note: Filtered by 10.246.1.75
+X-Policy: GLOBAL
+X-Primary: GLOBAL@frcemail.com
+X-Note-Sender: <ddietz@frcemail.com>
+X-Virus-Scan: V-
+X-Note-SnifferID: 0
+X-GBUdb-Analysis: 0, 10.246.0.39, Ugly c=1 p=-0.985906 Source White
+X-Signature-Violations:
+	0-0-0-12578-c
+X-Note-419: 15.625 ms. Fail:0 Chk:1361 of 1361 total
+X-Note: VSCH-CT/SI: 0-1361/SG:1 5/13/2020 9:19:49 PM
+X-Warn: ADULTPHRASE Contains questionable phrase
+X-Note: Spam Tests Failed: ADULTPHRASE
+X-Country-Path: PRIVATE->PRIVATE->
+X-Note-Sending-IP: 10.246.0.39
+X-Note-Reverse-DNS: 
+X-Note-Return-Path: ddietz@frcemail.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G695 G696 G697 G698 G716 G717 G718 G766 G873 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-bandwise-MailScanner-Information: Please contact the ISP for more information
+X-bandwise-MailScanner-ID: 1jZ2Ys-00078q-Qv
+X-bandwise-MailScanner: Found to be clean
+X-bandwise-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-2.6, required 5, BAYES_00 -1.90, HTML_MESSAGE 0.00,
+	RCVD_IN_DNSWL_LOW -0.70, SPF_PASS -0.00)
+X-bandwise-MailScanner-From: ddietz@frcemail.com
+X-Spam-Status: No
+
+--_000_852273FB990C4830A590720D0A86DCD5frcemailcom_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SGUgaXMgYSAqKioqKioqICoqKioqLiBNYWtlIHRob3NlIGFub21hbGllcyBnbyBhd2F5IGFuZCBv
+bmx5IHZpc2libGUgdG8gbWUgUmljaGFyZCBhbmQgSmFkYS4KU2VudCBmcm9tIG15IGlQaG9uZQoK
+QmVnaW4gZm9yd2FyZGVkIG1lc3NhZ2U6CgpGcm9tOiBCcmFkIExpbmRzZXkgPGJsaW5kc2V5QGZy
+Y2VtYWlsLmNvbT4KRGF0ZTogTWF5IDEzLCAyMDIwIGF0IDQ6MjI6MjkgUE0gQ0RUClRvOiBUaW0g
+R2FobCA8dGdhaGxAZnJjZW1haWwuY29tPiwgRG9uYWxkIERpZXR6IDxkZGlldHpAZnJjZW1haWwu
+Y29tPiwgUmljaGFyZCBDYXBwcyA8cmNhcHBzQGZyY2VtYWlsLmNvbT4KU3ViamVjdDogRlc6ICBI
+TCBzdGF0dXMgdXBkYXRlIGJ5IGNvbXBhbnkvdHJlZSBmYXJtCgrvu78KZnlpCgpGcm9tOiBKYWRh
+IERpY2tpbnNvbiA8amRpY2tpbnNvbkBmcmNlbWFpbC5jb20+ClNlbnQ6IFdlZG5lc2RheSwgTWF5
+IDEzLCAyMDIwIDQ6MjAgUE0KVG86IEJyYWQgTGluZHNleSA8YmxpbmRzZXlAZnJjZW1haWwuY29t
+PgpTdWJqZWN0OiBSRTogSEwgc3RhdHVzIHVwZGF0ZSBieSBjb21wYW55L3RyZWUgZmFybQoKSSB3
+aWxsIG5vdCBiZSBhdmFpbGFibGUgdG8gbWVldCBidXQgd2lsbCBiZSBiYWNrIGluIHRoZSBvZmZp
+Y2UgTW9uZGF5LgoKLS0tLS1PcmlnaW5hbCBBcHBvaW50bWVudC0tLS0tCkZyb206IEJyYWQgTGlu
+ZHNleSA8YmxpbmRzZXlAZnJjZW1haWwuY29tPG1haWx0bzpibGluZHNleUBmcmNlbWFpbC5jb20+
+PgpTZW50OiBXZWRuZXNkYXksIE1heSAxMywgMjAyMCA0OjE3IFBNClRvOiBEb25hbGQgRGlldHo7
+IEphZGEgRGlja2luc29uOyBSaWNoYXJkIENhcHBzCkNjOiBUaW0gR2FobApTdWJqZWN0OiBITCBz
+dGF0dXMgdXBkYXRlIGJ5IGNvbXBhbnkvdHJlZSBmYXJtCldoZW46IFRodXJzZGF5LCBNYXkgMTQs
+IDIwMjAgOTowMCBBTS0xMTowMCBBTSAoVVRDLTA2OjAwKSBDZW50cmFsIFRpbWUgKFVTICYgQ2Fu
+YWRhKS4KV2hlcmU6IERpYm9sbCBDb25mZXJlbmNlIFJvb20KCk1lZXRpbmcgTm90ZXMKCgogIDEu
+ICBSZXZpZXcgdGhlIGNsdWJzIHRoYXQgd2VyZSBuZWVkaW5nIGVkaXRzCiAgMi4gIFJldmlldyBI
+Q00gYW5vbWFsaWVzIGlkZW50aWZpZWQgb24gaG9tZSBzY3JlZW4KICAzLiAgTG9vayBhdCB0aGUg
+4oCYbWFuYWdlIHBheW1lbnRzIHJlcG9ydOKAmSB0byBzZWUgYWN0aXZpdHkgYnkgQ29tcGFueS9U
+cmVlIEZhcm0gYnkgQWNoIGFuZCBDaGVjawogIDQuICBUcmFjZSBhIGZldyBwYXltZW50cyBmcm9t
+IEhDTSB0byBNZXJzYVRlY2ggdG8gQ29CYW5rIOKAkyBUaGlzIGlzIGdvaW5nIHRvIGJlIGEgc2Vu
+c2l0aXZlIHByb2Nlc3MgZm9yIENUVCBhdCBtb250aCBlbmQuCiAgNS4gIFJldmlldyBtb250aGx5
+IHJlcG9ydHMgYnkgVHJlZSBmYXJtIHRvIHZlcmlmeSBiYWxhbmNlcyBhcmUgY29ycmVjdCAoMjAx
+OSBhY3Rpdml0eSBjbGVhbmVkIHVwPyBBbnkgbGluZ2VyaW5nIGJhbGFuY2VzPykKICA2LiAgUHJv
+Z3Jlc3Mgd2l0aCBDb250cmFjdCBTaWduaW5nLCBDaGVjayBlbnRlcmluZywgQ1RUIHJlcXVpcmVk
+IGRvY3VtZW50YXRpb24gaW4gQk9YCgoKCg==
+
+--_000_852273FB990C4830A590720D0A86DCD5frcemailcom_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SGUgaXMgYSAqKioqKioqICoqKioqLiBNYWtlIHRob3NlIGFub21hbGllcyBnbyBhd2F5IGFuZCBv
+bmx5IHZpc2libGUgdG8gbWUgUmljaGFyZCBhbmQgSmFkYS4KU2VudCBmcm9tIG15IGlQaG9uZQoK
+QmVnaW4gZm9yd2FyZGVkIG1lc3NhZ2U6CgpGcm9tOiBCcmFkIExpbmRzZXkgPGJsaW5kc2V5QGZy
+Y2VtYWlsLmNvbT4KRGF0ZTogTWF5IDEzLCAyMDIwIGF0IDQ6MjI6MjkgUE0gQ0RUClRvOiBUaW0g
+R2FobCA8dGdhaGxAZnJjZW1haWwuY29tPiwgRG9uYWxkIERpZXR6IDxkZGlldHpAZnJjZW1haWwu
+Y29tPiwgUmljaGFyZCBDYXBwcyA8cmNhcHBzQGZyY2VtYWlsLmNvbT4KU3ViamVjdDogRlc6ICBI
+TCBzdGF0dXMgdXBkYXRlIGJ5IGNvbXBhbnkvdHJlZSBmYXJtCgrvu78KZnlpCgpGcm9tOiBKYWRh
+IERpY2tpbnNvbiA8amRpY2tpbnNvbkBmcmNlbWFpbC5jb20+ClNlbnQ6IFdlZG5lc2RheSwgTWF5
+IDEzLCAyMDIwIDQ6MjAgUE0KVG86IEJyYWQgTGluZHNleSA8YmxpbmRzZXlAZnJjZW1haWwuY29t
+PgpTdWJqZWN0OiBSRTogSEwgc3RhdHVzIHVwZGF0ZSBieSBjb21wYW55L3RyZWUgZmFybQoKSSB3
+aWxsIG5vdCBiZSBhdmFpbGFibGUgdG8gbWVldCBidXQgd2lsbCBiZSBiYWNrIGluIHRoZSBvZmZp
+Y2UgTW9uZGF5LgoKLS0tLS1PcmlnaW5hbCBBcHBvaW50bWVudC0tLS0tCkZyb206IEJyYWQgTGlu
+ZHNleSA8YmxpbmRzZXlAZnJjZW1haWwuY29tPG1haWx0bzpibGluZHNleUBmcmNlbWFpbC5jb20+
+PgpTZW50OiBXZWRuZXNkYXksIE1heSAxMywgMjAyMCA0OjE3IFBNClRvOiBEb25hbGQgRGlldHo7
+IEphZGEgRGlja2luc29uOyBSaWNoYXJkIENhcHBzCkNjOiBUaW0gR2FobApTdWJqZWN0OiBITCBz
+dGF0dXMgdXBkYXRlIGJ5IGNvbXBhbnkvdHJlZSBmYXJtCldoZW46IFRodXJzZGF5LCBNYXkgMTQs
+IDIwMjAgOTowMCBBTS0xMTowMCBBTSAoVVRDLTA2OjAwKSBDZW50cmFsIFRpbWUgKFVTICYgQ2Fu
+YWRhKS4KV2hlcmU6IERpYm9sbCBDb25mZXJlbmNlIFJvb20KCk1lZXRpbmcgTm90ZXMKCgogIDEu
+ICBSZXZpZXcgdGhlIGNsdWJzIHRoYXQgd2VyZSBuZWVkaW5nIGVkaXRzCiAgMi4gIFJldmlldyBI
+Q00gYW5vbWFsaWVzIGlkZW50aWZpZWQgb24gaG9tZSBzY3JlZW4KICAzLiAgTG9vayBhdCB0aGUg
+4oCYbWFuYWdlIHBheW1lbnRzIHJlcG9ydOKAmSB0byBzZWUgYWN0aXZpdHkgYnkgQ29tcGFueS9U
+cmVlIEZhcm0gYnkgQWNoIGFuZCBDaGVjawogIDQuICBUcmFjZSBhIGZldyBwYXltZW50cyBmcm9t
+IEhDTSB0byBNZXJzYVRlY2ggdG8gQ29CYW5rIOKAkyBUaGlzIGlzIGdvaW5nIHRvIGJlIGEgc2Vu
+c2l0aXZlIHByb2Nlc3MgZm9yIENUVCBhdCBtb250aCBlbmQuCiAgNS4gIFJldmlldyBtb250aGx5
+IHJlcG9ydHMgYnkgVHJlZSBmYXJtIHRvIHZlcmlmeSBiYWxhbmNlcyBhcmUgY29ycmVjdCAoMjAx
+OSBhY3Rpdml0eSBjbGVhbmVkIHVwPyBBbnkgbGluZ2VyaW5nIGJhbGFuY2VzPykKICA2LiAgUHJv
+Z3Jlc3Mgd2l0aCBDb250cmFjdCBTaWduaW5nLCBDaGVjayBlbnRlcmluZywgQ1RUIHJlcXVpcmVk
+IGRvY3VtZW50YXRpb24gaW4gQk9YCgoKCg==
+
+--_000_852273FB990C4830A590720D0A86DCD5frcemailcom_--

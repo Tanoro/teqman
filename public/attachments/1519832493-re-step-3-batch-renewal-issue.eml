@@ -1,0 +1,451 @@
+Return-Path: <ddietz@campbellglobal.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP id cM/OHhjklVr9eAAA1qp4aA
+	for <cgray@bandwise.com>; Tue, 27 Feb 2018 17:04:56 -0600
+Return-path: <ddietz@campbellglobal.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Tue, 27 Feb 2018 17:04:56 -0600
+Received: from us-smtp-delivery-101.mimecast.com ([63.128.21.101]:57943)
+	by vm.bandwise.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <ddietz@campbellglobal.com>)
+	id 1eqoIj-00083u-Ut
+	for cgray@bandwise.com; Tue, 27 Feb 2018 17:04:49 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=campbellglobal.onmicrosoft.com; s=selector1-campbellglobal-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=c/gvXnWcx31KgN8p8vyrcJBpjtVgPJo7YvSdQvGAOLs=;
+ b=i0lmelhjVsbRO9K1H9qLez+s+StrsFfLXpgL7E3k11LXy576e1HCwz+U4y4prxogE5/kur/DR2LIkHmNvaZhMVEW/Kb72Coqzaa1w52MQ6NL8IbtUmtB/J65DVvvH4OOv8l7+EvLYAhGd8fam/0sAQF38jI3aIMha0CO3HWS4Ig=
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com
+ (mail-by2nam01lp0180.outbound.protection.outlook.com [216.32.181.180])
+ (Using TLS) by us-smtp-1.mimecast.com with ESMTP id
+ us-mta-80-dHFug7ePNRmUSX7-wn5P9w-1; Tue, 27 Feb 2018 18:04:05 -0500
+Received: from BN3PR0801MB0995.namprd08.prod.outlook.com (10.161.217.24) by
+ BN3PR0801MB2129.namprd08.prod.outlook.com (10.166.72.155) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.527.15; Tue, 27 Feb 2018 23:04:03 +0000
+Received: from BN3PR0801MB0995.namprd08.prod.outlook.com
+ ([fe80::85d4:be28:6e3d:eb48]) by BN3PR0801MB0995.namprd08.prod.outlook.com
+ ([fe80::85d4:be28:6e3d:eb48%13]) with mapi id 15.20.0506.023; Tue, 27 Feb
+ 2018 23:04:03 +0000
+From: Don Dietz <ddietz@campbellglobal.com>
+To: Christopher Gray <cgray@bandwise.com>
+Subject: RE: Step 3 Batch Renewal Issue
+Thread-Topic: Step 3 Batch Renewal Issue
+Thread-Index: AQHTsB3OPgStNY+lCUG78NSo6r7c/KO43jow
+Date: Tue, 27 Feb 2018 23:04:03 +0000
+Message-ID: <BN3PR0801MB0995CAB3D1C357F78819C601A4C00@BN3PR0801MB0995.namprd08.prod.outlook.com>
+References: <CY4PR08MB2920E31CE33DA158718908DFBCC00@CY4PR08MB2920.namprd08.prod.outlook.com>
+ <3a8c5360-0150-b67b-7258-185812ca7fc7@bandwise.com>
+In-Reply-To: <3a8c5360-0150-b67b-7258-185812ca7fc7@bandwise.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [173.219.22.121]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BN3PR0801MB2129;7:PqRAd3TZmRD9z95dqB01hJPAwpctbq0CTHdZ9f4uEtAUnxsy/lQm0enaN5WUf2PcXimfAMLSZt6WSEEufn1ixaszmiWGxx/xo/1eoiknM7qKOUDXJafFNiSzvy2dPdALIDQvq8NhT9c7QBUHSCxEZXKmfqZElbfVs7Y+38EaeRBPi6XPMb9iOgghHzkhSL3B0F+4YwjHj/3sZhNVvhzOK4LGFLzvoAouoNr/wBkdBhxnCTuGsGz4HLEy0LTO9gmp;20:EA7IQtDe2WtGnR23bZKyFaLOGFBDXdKu+YBxk49ZttlwRdXFXmTIIMY8WUGt+y1qaAlae7Zi+ZOc7JHRO4w6SEHgv4WAuxy5L4aFENqxiwHY7Vrd+mJ4u3KtYKXedtuc3HxpsWaFKg7innwJcyLFA1lXa+zmzDmsEYNXYGak7FI=
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;
+x-ms-office365-filtering-correlation-id: d76956ae-5165-40bf-1d92-08d57e366522
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(7021125)(4534165)(7022125)(4603075)(4627221)(201702281549075)(7048125)(7024125)(7027125)(7028125)(7023125)(5600026)(4604075)(3008032)(2017052603307)(7153060)(49563074)(7193020);SRVR:BN3PR0801MB2129;
+x-ms-traffictypediagnostic: BN3PR0801MB2129:
+x-microsoft-antispam-prvs: <BN3PR0801MB2129E2DBAA709D4A24FA418FA4C00@BN3PR0801MB2129.namprd08.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(28532068793085)(72170088055959)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(8211001083)(102415395)(6040501)(2401047)(8121501046)(5005006)(3002001)(93006095)(93001095)(10201501046)(3231220)(944501161)(52105095)(6041288)(20161123560045)(20161123564045)(20161123562045)(20161123558120)(2016111802025)(6043046)(6072148)(201708071742011);SRVR:BN3PR0801MB2129;BCL:0;PCL:0;RULEID:;SRVR:BN3PR0801MB2129;
+x-forefront-prvs: 05961EBAFC
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(366004)(39380400002)(346002)(39840400004)(396003)(376002)(199004)(189003)(97736004)(53936002)(316002)(86362001)(3660700001)(74316002)(68736007)(2900100001)(66066001)(3280700002)(7736002)(53546011)(478600001)(55016002)(76176011)(6916009)(59450400001)(102836004)(106356001)(25786009)(26005)(229853002)(14454004)(2950100002)(105586002)(99286004)(33656002)(99936001)(5250100002)(5890100001)(6246003)(186003)(7696005)(9686003)(5660300001)(54556002)(6306002)(54896002)(790700001)(3846002)(6116002)(236005)(8936002)(6436002)(81156014)(2906002)(733005)(81166006)(6506007)(8676002);DIR:OUT;SFP:1101;SCL:1;SRVR:BN3PR0801MB2129;H:BN3PR0801MB0995.namprd08.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+x-microsoft-antispam-message-info: f2Fr24F8A9/FzsQ9FPFDQnwshIaubx+uumZSRU5CHbLyJM8tmKtsA4XwlmG1hmMxfEgdJiLdep6iEWG7pUHTYtcGidAsoKTHgyopxNVNaEUxg9suYuuPXyxbZc5UxZsaOuIk+QetxCsezvSZ+vWpNf5X1P7cuNCWKPMuU9AQZKM=
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+X-OriginatorOrg: campbellglobal.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: d76956ae-5165-40bf-1d92-08d57e366522
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Feb 2018 23:04:03.1142
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 1a043215-ebc8-48ea-a8aa-b9bdb848b7d2
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3PR0801MB2129
+X-MC-Unique: dHFug7ePNRmUSX7-wn5P9w-1
+Content-Type: multipart/related;
+	boundary="_004_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_";
+	type="multipart/alternative"
+X-bandwisems-MailScanner-Information: Please contact the ISP for more information
+X-bandwisems-MailScanner-ID: 1eqoIj-00083u-Ut
+X-bandwisems-MailScanner: Found to be clean
+X-bandwisems-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-4.08, required 5, autolearn=not spam, BAYES_00 -1.90,
+	DKIM_SIGNED 0.10, HTML_MESSAGE 0.00, RCVD_IN_DNSWL_MED -2.30,
+	SPF_PASS -0.00, T_DKIM_INVALID 0.01, T_KAM_HTML_FONT_INVALID 0.01)
+X-bandwisems-MailScanner-From: ddietz@campbellglobal.com
+X-Spam-Status: No
+
+--_004_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_"
+
+--_000_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_
+Content-Type: text/plain; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+Ok, do it.
+
+Don Dietz, CWB
+Senior Wildlife Biologist
+Campbell Global
+702 North Temple Drive
+Diboll, TX 75941
+ddietz@campbellglobal.com<mailto:ddietz@campbellglobal.com>
+Office 936-829-6337
+Cell 936-675-3462
+
+From: Christopher Gray [mailto:cgray@bandwise.com]
+Sent: Tuesday, February 27, 2018 4:53 PM
+To: Don Dietz <ddietz@campbellglobal.com>
+Subject: Fwd: Step 3 Batch Renewal Issue
+
+
+Don,
+
+I'd like to request billable time on this issue reported by Jada. Batch Ren=
+ewals throws this error when contracts have a duplicate acre rate on the sa=
+me contract for the same year. I'd like to do the following...
+
+  1.  Attempt to find what interface is permitting these duplicate acre rat=
+es to be inserted.
+  2.  If found, patch the source of these duplications.
+  3.  The Manage Contracts page prevents such duplications, but it also hid=
+es them if they got in some other way. I'd like to adjust the acre rate too=
+l on this form so erroneous duplicate acre rates show up and can be deleted=
+.
+  4.  Better detection: I want the Anomaly Report detecting these problems =
+should they ever happen, so you guys don't simply stumble onto them.
+
+-------- Forwarded Message --------
+
+
+Chris
+The lease rates for CX was completed today but I am having issues with Step=
+ 3 in Batch.  The error pops up saying there are no contracts awaiting rene=
+wal this year.
+I did see one lease listed twice CX-1243  Tiger Creek not sure if this is t=
+he problem or not.
+
+Richard said he had the same issue on the NX tree farm and it was a duplica=
+te lease.
+
+I did summit a tech support ticket.
+
+
+
+
+Jada Dickinson
+Campbell Global
+Recreational Lease Specialist
+Office: (936) 829-6344
+[CGlogo_RGBsmall]
+
+
+________________________________
+This e-mail message and any attachments are intended only for the addressee=
+ and may be privileged, confidential and protected from disclosure. If you =
+are not the intended recipient, any dissemination, distribution, or copying=
+ is expressly prohibited. If you received this e-mail in error, please noti=
+fy the sender immediately by replying to this e-mail message or by telephon=
+e. All e-mail communications sent and/or received by Campbell Global employ=
+ees are subject to archiving, monitoring and/or review by Campbell Global p=
+ersonnel to ensure regulatory compliance to protect Campbell Global's clien=
+ts and business.
+________________________________
+
+--_000_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+=09{font-family:"Cambria Math";
+=09panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+=09{font-family:"Comic Sans MS \;color\:\#538135";
+=09panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+=09{font-family:"Comic Sans MS \;color\:\#2E74B5";
+=09panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0in;
+=09margin-bottom:.0001pt;
+=09font-size:11.0pt;
+=09font-family:"Calibri",sans-serif;
+=09color:black;}
+a:link, span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:#0563C1;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:#954F72;
+=09text-decoration:underline;}
+p
+=09{mso-style-priority:99;
+=09mso-margin-top-alt:auto;
+=09margin-right:0in;
+=09mso-margin-bottom-alt:auto;
+=09margin-left:0in;
+=09font-size:11.0pt;
+=09font-family:"Calibri",sans-serif;
+=09color:black;}
+span.EmailStyle18
+=09{mso-style-type:personal;
+=09font-family:"Calibri",sans-serif;
+=09color:windowtext;}
+span.EmailStyle19
+=09{mso-style-type:personal-reply;
+=09font-family:"Calibri",sans-serif;
+=09color:#1F497D;}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-size:10.0pt;}
+@page WordSection1
+=09{size:8.5in 11.0in;
+=09margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+=09{page:WordSection1;}
+/* List Definitions */
+@list l0
+=09{mso-list-id:1705252882;
+=09mso-list-template-ids:925248798;}
+ol
+=09{margin-bottom:0in;}
+ul
+=09{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body bgcolor=3D"white" lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Ok, do it.<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Do=
+n Dietz,</span></b><b><span style=3D"font-size:8.0pt;color:#385623">
+<i>CWB</i></span></b><b><span style=3D"font-size:12.0pt;color:#385623"><o:p=
+></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Se=
+nior Wildlife Biologist</span></b><b><span style=3D"color:#385623">
+</span></b><b><span style=3D"font-size:8.0pt;color:#385623"><o:p></o:p></sp=
+an></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Ca=
+mpbell Global<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">70=
+2 North Temple Drive<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Di=
+boll, TX 75941<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#0070C0"><a=
+ href=3D"mailto:ddietz@campbellglobal.com"><span style=3D"color:#0070C0">dd=
+ietz@campbellglobal.com</span></a><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Of=
+fice 936-829-6337<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;color:#385623">Ce=
+ll 936-675-3462<o:p></o:p></span></b></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:windowtext">From:</span></b>=
+<span style=3D"color:windowtext"> Christopher Gray [mailto:cgray@bandwise.c=
+om]
+<br>
+<b>Sent:</b> Tuesday, February 27, 2018 4:53 PM<br>
+<b>To:</b> Don Dietz &lt;ddietz@campbellglobal.com&gt;<br>
+<b>Subject:</b> Fwd: Step 3 Batch Renewal Issue<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p>Don,<span style=3D"font-size:12.0pt"><o:p></o:p></span></p>
+<p>I'd like to request billable time on this issue reported by Jada. Batch =
+Renewals throws this error when contracts have a duplicate acre rate on the=
+ same contract for the same year. I'd like to do the following...<o:p></o:p=
+></p>
+<ol start=3D"1" type=3D"1">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level1 lfo1">
+Attempt to find what interface is permitting these duplicate acre rates to =
+be inserted.<o:p></o:p></li><li class=3D"MsoNormal" style=3D"mso-margin-top=
+-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1">
+If found, patch the source of these duplications.<o:p></o:p></li><li class=
+=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;=
+mso-list:l0 level1 lfo1">
+The Manage Contracts page prevents such duplications, but it also hides the=
+m if they got in some other way. I'd like to adjust the acre rate tool on t=
+his form so erroneous duplicate acre rates show up and can be deleted.<o:p>=
+</o:p></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-mar=
+gin-bottom-alt:auto;mso-list:l0 level1 lfo1">
+Better detection: I want the Anomaly Report detecting these problems should=
+ they ever happen, so you guys don't simply stumble onto them.<o:p></o:p></=
+li></ol>
+<div>
+<p class=3D"MsoNormal"><br>
+-------- Forwarded Message --------<br>
+<br>
+<br>
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,ser=
+if"><o:p></o:p></span></p>
+<p class=3D"MsoNormal">Chris<o:p></o:p></p>
+<p class=3D"MsoNormal">The lease rates for CX was completed today but I am =
+having issues with Step 3 in Batch. &nbsp;The error pops up saying there ar=
+e no contracts awaiting renewal this year.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">I did see one lease listed twice CX-1243 &nbsp;Tiger=
+ Creek not sure if this is the problem or not.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Richard said he had the same issue on the NX tree fa=
+rm and it was a duplicate lease.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">I did summit a tech support ticket. <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:12.0pt">Jada Dickinso=
+n</span></i></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Comic Sans MS ;color:#538135&quot;,serif">Campbell Global</span></b><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Co=
+mic Sans MS ;color:#538135&quot;,serif">Recreational Lease Specialist</span=
+><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Co=
+mic Sans MS ;color:#2E74B5&quot;,serif">Office: (936) 829-6344</span><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><img border=3D"0" widt=
+h=3D"210" height=3D"46" id=3D"Picture_x0020_1" src=3D"cid:image001.jpg@01D3=
+AFEC.F55F6A10" alt=3D"CGlogo_RGBsmall"></span><o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif">This e-mail message and any attachments are intended o=
+nly for the addressee and may be privileged, confidential and protected fro=
+m disclosure. If you are not the intended recipient,
+ any dissemination, distribution, or copying is expressly prohibited. If yo=
+u received this e-mail in error, please notify the sender immediately by re=
+plying to this e-mail message or by telephone. All e-mail communications se=
+nt and/or received by Campbell Global
+ employees are subject to archiving, monitoring and/or review by Campbell G=
+lobal personnel to ensure regulatory compliance to protect Campbell Global'=
+s clients and business.<o:p></o:p></span></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_--
+
+--_004_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=3453;
+	creation-date="Tue, 27 Feb 2018 23:04:01 GMT";
+	modification-date="Tue, 27 Feb 2018 23:04:01 GMT"
+Content-ID: <image001.jpg@01D3AFEC.F55F6A10>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAAuANIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD12+vr
+fTrR7m6kCRJ1Pc+wHc1zI1nVdUnmSFlsoVX985UE269ue8h9Og+tZ/iW+l1jWhaQHMdvMsMaj+OU
+jLH8Bx7ZrYtLSOa4TS4CTbW3z3L/APPV++fxqqTTb8jCUnJ2Qy0smu7Q+dNcQaVEdx8yQmSc9yzH
+t7CrVslzqSJHZFrDTI+FKDDyfT0FOuJYb+YiR1j062YKxzgO3QD6VJNr8Ft4kt9H2gb4+W6bW/hX
+8gf0qp1FHcUYJ+n9fgasQWMCHzC7IozubLY9TUlcPYa4X+IVxlv3MxNsB/u9P1B/Ot7w9rw1k3iM
+FElvMygDumflP6VzxqKTNlJM2jRVHWdRGk6TcXhUMYkyqnuew/OuT0zTNa13S21R9ZuIp5NxhjTh
+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
+--_004_BN3PR0801MB0995CAB3D1C357F78819C601A4C00BN3PR0801MB0995_--
+

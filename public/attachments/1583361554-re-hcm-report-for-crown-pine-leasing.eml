@@ -1,0 +1,1508 @@
+Return-Path: <ddietz@frcemail.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP
+	id kAKINZ4nWF69QwAA1qp4aA
+	(envelope-from <ddietz@frcemail.com>)
+	for <cgray@bandwise.com>; Thu, 27 Feb 2020 14:33:34 -0600
+Return-path: <ddietz@frcemail.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Thu, 27 Feb 2020 14:33:34 -0600
+Received: from server907a.appriver.com ([204.232.250.39]:59158 helo=server907.appriver.com)
+	by vm.bandwise.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.92)
+	(envelope-from <ddietz@frcemail.com>)
+	id 1j7PqX-0005qT-Sr
+	for cgray@bandwise.com; Thu, 27 Feb 2020 14:33:25 -0600
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 02/27/2020 3:32:43 PM
+X-Note: SecureTide Build: 2/6/2020 4:08:38 PM UTC (2.8.16.0)
+X-Note: Filtered by 10.246.0.223
+X-Note-AR-Scan: None - PIPE
+Received: by server907.appriver.com (CommuniGate Pro PIPE 6.2.4)
+  with PIPE id 59250130; Thu, 27 Feb 2020 15:32:43 -0500
+Received: from [10.246.0.39] (HELO smtp.us.exg7.exghost.com)
+  by server907.appriver.com (CommuniGate Pro SMTP 6.2.4)
+  with ESMTPS id 59250079; Thu, 27 Feb 2020 15:32:40 -0500
+Received: from E16DN75A-S1E7.exg7.exghost.local (192.168.245.236) by
+ E16DN73C-S1E7.exg7.exghost.local (192.168.244.204) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1913.0; Thu, 27 Feb 2020 15:32:40 -0500
+Received: from E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) by
+ E16DN75A-S1E7.exg7.exghost.local ([192.168.245.236]) with mapi id
+ 15.01.1913.000; Thu, 27 Feb 2020 15:32:40 -0500
+From: Donald Dietz <ddietz@frcemail.com>
+To: Christopher Gray <cgray@bandwise.com>, Richard Capps <rcapps@frcemail.com>
+CC: Britt Moore <bmoore@mossyoakproperties.com>, Jada Dickinson
+	<jdickinson@frcemail.com>
+Subject: RE: HCM Report for Crown Pine Leasing
+Thread-Topic: HCM Report for Crown Pine Leasing
+Thread-Index: AdXsEnYpfl6BXLsIQ9Cra0QrN8lv9QANG2WAABzG7SAAFPcCgAAJ06Ng///DUoCAAE+wMIAA69MAgAAPOgA=
+Date: Thu, 27 Feb 2020 20:32:40 +0000
+Message-ID: <7a4a585a1a084facbb1ce64e2be68d0d@frcemail.com>
+References: <69715bc563104a6e90f0bb722ff5da27@frcemail.com>
+ <7f4af058-a957-f321-a1af-91d8b4a372d9@bandwise.com>
+ <4af9881e203b4c7596376ce4b7b13f83@frcemail.com>
+ <6bc51ad0-1ddd-1efc-e2a5-c16f3c43d6e1@bandwise.com>
+ <2ee5f05a9bb245959f28d59517f9ac27@frcemail.com>
+ <e1c24f27-b31d-f39a-1ba4-8b5dbbd68eb4@bandwise.com>
+ <400165941d0d41da9f77a7416a238a85@frcemail.com>
+ <66489df1-5c4a-707c-e3fc-a3decbf90f57@bandwise.com>
+In-Reply-To: <66489df1-5c4a-707c-e3fc-a3decbf90f57@bandwise.com>
+Accept-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+x-originating-ip: [207.70.191.46]
+x-arhex-rule-tr-5b819e14-e906-4737-a039-98e851ab7b14: True
+x-rerouted-by-exchange: 
+MIME-Version: 1.0
+Content-Language: en-US
+Content-Type: multipart/related;
+	boundary="_005_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_";
+	type="multipart/alternative"
+X-Note: This Email was scanned by AppRiver SecureTide
+X-Note-AR-ScanTimeLocal: 02/27/2020 3:32:40 PM
+X-Note: SecureTide Build: 2/6/2020 4:08:38 PM UTC (2.8.16.0)
+X-Note: Filtered by 10.246.0.223
+X-Policy: GLOBAL
+X-Primary: GLOBAL@frcemail.com
+X-Note-Sender: <ddietz@frcemail.com>
+X-Virus-Scan: V-
+X-Note-SnifferID: 0
+X-GBUdb-Analysis: 1, 192.168.245.236, Ugly c=0.745929 p=-0.988506 Source White
+X-Signature-Violations:
+	0-0-0-32767-c
+X-Note-419: 46.8474 ms. Fail:0 Chk:1357 of 1357 total
+X-Note: VSCH-CT/SI: 0-1357/SG:1 2/27/2020 3:32:17 PM
+X-Note: Spam Tests Failed: 
+X-Country-Path: PRIVATE->PRIVATE->
+X-Note-Sending-IP: 10.246.0.39
+X-Note-Reverse-DNS: 
+X-Note-Return-Path: ddietz@frcemail.com
+X-Note: User Rule Hits: 
+X-Note: Global Rule Hits: G697 G698 G699 G700 G718 G719 G720 G875 G888 
+X-Note: Encrypt Rule Hits: 
+X-Note: Mail Class: VALID
+X-bandwise-MailScanner-Information: Please contact the ISP for more information
+X-bandwise-MailScanner-ID: 1j7PqX-0005qT-Sr
+X-bandwise-MailScanner: Found to be clean
+X-bandwise-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=-1.199, required 5, BAYES_00 -1.90, BW_FOREIGNL 0.50,
+	BW_FOREIGNL3 0.10, CPANEL_LOTS_OF_EMPTY_LINE 0.80, HTML_MESSAGE 0.00,
+	RCVD_IN_DNSWL_LOW -0.70, SPF_PASS -0.00, URIBL_BLOCKED 0.00)
+X-bandwise-MailScanner-From: ddietz@frcemail.com
+X-Spam-Status: No
+
+--_005_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_
+Content-Type: multipart/alternative;
+	boundary="_000_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_"
+
+--_000_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+That is a great idea.  Please email it to Jada, Richard, and me.  THANKS!!!=
+!
+
+
+________________________________
+[cid:image001.png@01D5ED7A.C2E072A0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com>
+Sent: Thursday, February 27, 2020 10:27 AM
+To: Donald Dietz <ddietz@frcemail.com>; Richard Capps <rcapps@frcemail.com>
+Cc: Britt Moore <bmoore@mossyoakproperties.com>; Jada Dickinson <jdickinson=
+@frcemail.com>
+Subject: Re: HCM Report for Crown Pine Leasing
+
+
+Don,
+
+That's good, but compliance also means you can ask me for any changes you w=
+ant any time, even during the billing season. Nothing will touch the produc=
+tion site until you declare it ready.
+
+Also, I just had a thought! I do weekly reporting spreadsheets for Allen th=
+at automatically go out by e-mail every Friday at 5pm. If you have certain =
+reports that you're downloading a lot or need an "official" report to go ou=
+t at certain times of the month, I can make the site do that. For example, =
+I can have the site generate an HCM report for every tree farm (or all of t=
+hem) on the 1st of every month and e-mail it to anyone you want.
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com<http://www.bandwise.com/>
+
+On 2/26/2020 3:52 PM, Donald Dietz wrote:
+We will try to comply. Thanks.
+
+
+________________________________
+[cid:image001.png@01D5ED7A.C2E072A0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com><mailto:cgray@bandwise.com>
+Sent: Wednesday, February 26, 2020 3:37 PM
+To: Donald Dietz <ddietz@frcemail.com><mailto:ddietz@frcemail.com>; Richard=
+ Capps <rcapps@frcemail.com><mailto:rcapps@frcemail.com>
+Cc: Britt Moore <bmoore@mossyoakproperties.com><mailto:bmoore@mossyoakprope=
+rties.com>; Jada Dickinson <jdickinson@frcemail.com><mailto:jdickinson@frce=
+mail.com>
+Subject: Re: HCM Report for Crown Pine Leasing
+
+
+That fear is why I don't like doing hot fixes. Tweaking a template is fine,=
+ but most hot fixes are dangerous and the room for human error doing a lot =
+of harm is often high. If we stick to proper testing protocols, we don't ha=
+ve to be afraid of big changes bringing down the site. Testing protocols ar=
+e slow and bureaucratic, but this fear is why they exist.
+
+Development and testing protocols:
+
+  1.  Requested changes to the application are to be run through Don for ap=
+proval.
+  2.  I complete the changes in my personal dev copy (using dummy data). I =
+do my rounds of testing here as well.
+  3.  Don and I communicate on when to wrap up the latest updates.
+  4.  I write up a change log and provide you all some tips on what to look=
+ at.
+  5.  Important! I roll the latest updates to Cgleasetesting.com where you =
+can all try them out. Go crazy! Try to break it! This is the point where bu=
+gs are harmless and I can be notified to fix them before they get to produc=
+tion. Moreover, miscommunications happen, so this is the point where instru=
+ctions to me can be clarified if they need to be. Moreover still, you may g=
+et ideas for further improvements that need to be expedited. I also do furt=
+her testing here at times.
+  6.  If testing goes well, Don approves the update for production I roll t=
+he update to the production site.
+Side note: I still strongly prefer bug reports to come via the tech support=
+ form on the site. This is also the case on the testing site. That tech sup=
+port form may seem like a hassle, but it provides me with a ton of informat=
+ion that you wouldn't even know to give me.
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com<http://www.bandwise.com/>
+
+
+On 2/26/2020 2:55 PM, Donald Dietz wrote:
+Sounds hard and dangerous for this time of year.  Moving forward is there a=
+ way we could archive a fiscal year end HCM report.  What we are being aske=
+d to do is show our lease rate history.  I guess moving forward we should r=
+un HCM Reports and save them in an appropriate file.  I do that fairly ofte=
+n so maybe I can get us close to what we need.  Since we are invoicing for =
+Texas as we speak, I don't want to risk HCM going through any glitches at t=
+his time.  Thanks for the explanation.
+
+
+________________________________
+[cid:image001.png@01D5ED7A.C2E072A0]<http://www.frc.us.com/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don Dietz CWB |SFI Coordinator, Recreational Lease Manager
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, TX 75941
+
+Office: (936) 829-6300 | Mobile: (936) 675-3462
+
+Visit us at: www.frc.us.com<http://www.frc.us.com>
+
+
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com><mailto:cgray@bandwise.com>
+Sent: Wednesday, February 26, 2020 2:33 PM
+To: Richard Capps <rcapps@frcemail.com><mailto:rcapps@frcemail.com>
+Cc: Donald Dietz <ddietz@frcemail.com><mailto:ddietz@frcemail.com>; Britt M=
+oore <bmoore@mossyoakproperties.com><mailto:bmoore@mossyoakproperties.com>;=
+ Jada Dickinson <jdickinson@frcemail.com><mailto:jdickinson@frcemail.com>
+Subject: Re: HCM Report for Crown Pine Leasing
+
+
+I explained how the report works below. I have since been awaiting instruct=
+ion. The problem is in defining exactly what this report is suppose to do. =
+The report is designed to serve more of a "lease's current status" role wit=
+h some ability to flex billing details by fiscal year, but you're attemptin=
+g to use it as a viewer of past contracts -- not current status.
+
+The report is oriented by leases, each one having potentially many contract=
+s attached to it. The lease can't print all of its contracts into its one r=
+ow, so it has to pick one. The lease always joins to its most recent contra=
+ct. Fiscal years are a concept applied to invoices. Contracts can last as m=
+any years as they need to, so they don't have a designated fiscal year (the=
+y have an arbitrary date range). Therefore, the fiscal year selector orient=
+s the invoice details on the report -- not the contract. Acre rates also ha=
+ve a year designation, so I was able to get those to respond to the fiscal =
+year selector easily enough.
+
+Contracts have no "awareness" of the fiscal years that apply to them. They =
+can endure for as many years as they need to. I would have to join across t=
+o the acre rates to find the acre rate for that year and then backwards fro=
+m there to the contract record. This report has one of the most complex que=
+ries in the entire app. I can try to make the contracts follow the fiscal y=
+ear selector, but it's a very small intimidating problem to tackle.
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com<http://www.bandwise.com/>
+
+
+
+On 2/26/2020 1:51 PM, Richard Capps wrote:
+Chris, I need to run a HCM report for NX for 2018, 2019, and 2020 that show=
+s the lease acre rates. I ran the report for each year, but like Jada repor=
+ted the lease rates are missing for 2018 and 2019. I thought the HCM report=
+ ran the fiscal year, how can I get the reports?
+
+Thanks Richard
+
+
+[FRC]<http://www.frc.us.com/>
+
+Richard M Capps
+
+Recreational Lease Specialist
+Forest Resource Consultants, Inc.
+
+702 North Temple Drive | Diboll, Texas 75941
+
+Office: (936) 829-6300 Ext. 1013
+
+Visit us at: www.frc.us.com<http://www.frc.us.com/>
+
+
+
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+From: Christopher Gray <cgray@bandwise.com><mailto:cgray@bandwise.com>
+Sent: Tuesday, February 25, 2020 2:49 PM
+To: Jada Dickinson <jdickinson@frcemail.com><mailto:jdickinson@frcemail.com=
+>
+Cc: Donald Dietz <ddietz@frcemail.com><mailto:ddietz@frcemail.com>; Richard=
+ Capps <rcapps@frcemail.com><mailto:rcapps@frcemail.com>; Britt Moore <bmoo=
+re@mossyoakproperties.com><mailto:bmoore@mossyoakproperties.com>
+Subject: Re: HCM Report for Crown Pine Leasing
+
+
+That report renders one row per lease, joining into each lease's most recen=
+t contract -- similar to how the smart search behaves. If the current contr=
+act doesn't have an acre rate in 2019, it will show nothing in that column.
+
+There may a loss of expected function in this approach because the report c=
+an't show what a lease's acre rate was in a past year if it must cite a non=
+-current contract to find it. That report is very complex, but I can try to=
+ make it do that.
+
+Let me know.
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com<http://www.bandwise.com/>
+
+
+
+
+On 2/25/2020 1:55 PM, Jada Dickinson wrote:
+Chris
+
+The HCM report for Crown Pine Leasing is not pulling all the rates for the =
+certain year that is chosen.  For example I ran a 2018 report for all CPL i=
+n Texas and some of the 2018 rates were missing.  I ran the 2019 report for=
+ CPL and some of the rates are missing on that report as well.
+
+Accounting is asking for acres and average rates and for 2018/2019 years.
+
+________________________________
+[FRC]<http://www.frc.us.com/>
+
+Jada Dickinson | Rec. Lease Specialist
+
+Forest Resource Consultants, Inc.
+
+702 North Temple Dr. | Diboll, Texas 75941
+
+Office: (936) 829-6300  ext.1003
+
+Visit us at: www.frc.us.com<http://www.frc.us.com/>
+
+
+________________________________
+This message may contain privileged or proprietary information. It has been=
+ sent for the sole use of the intended recipient(s). If you have received t=
+his communication in error, please reply to the sender and delete the messa=
+ge.
+
+
+
+
+--_000_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Times New Roman \,serif";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1282149644;
+	mso-list-template-ids:1597688380;}
+@list l1
+	{mso-list-id:1655378119;
+	mso-list-template-ids:-1308063642;}
+@list l1:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">That is a great idea.&nbsp; Please email it to Jada,=
+ Richard, and me.&nbsp; THANKS!!!!<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;font-family:&quo=
+t;Times New Roman&quot;,serif;color:white;text-decoration:none"><img border=
+=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;height:.8in" id=3D=
+"_x0000_i1037" src=3D"cid:image001.png@01D5ED7A.C2E072A0"></span></a><span =
+style=3D"font-size:12.0pt;line-height:105%;font-family:&quot;Times New Roma=
+n&quot;,serif"><o:p></o:p></span></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager<o:p></o:p></b></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a><o:p></=
+o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;co=
+lor:white">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><span style=3D"font-size:7.0pt;line-he=
+ight:105%;font-family:&quot;Helvetica&quot;,sans-serif"><o:p></o:p></span><=
+/p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray &lt;cgray@bandwise.com=
+&gt; <br>
+<b>Sent:</b> Thursday, February 27, 2020 10:27 AM<br>
+<b>To:</b> Donald Dietz &lt;ddietz@frcemail.com&gt;; Richard Capps &lt;rcap=
+ps@frcemail.com&gt;<br>
+<b>Cc:</b> Britt Moore &lt;bmoore@mossyoakproperties.com&gt;; Jada Dickinso=
+n &lt;jdickinson@frcemail.com&gt;<br>
+<b>Subject:</b> Re: HCM Report for Crown Pine Leasing<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p>Don,<o:p></o:p></p>
+<p>That's good, but compliance also means you can ask me for any changes yo=
+u want any time, even during the billing season. Nothing will touch the pro=
+duction site until you declare it ready.<o:p></o:p></p>
+<p>Also, I just had a thought! I do weekly reporting spreadsheets for Allen=
+ that automatically go out by e-mail every Friday at 5pm. If you have certa=
+in reports that you're downloading a lot or need an &quot;official&quot; re=
+port to go out at certain times of the month,
+ I can make the site do that. For example, I can have the site generate an =
+HCM report for every tree farm (or all of them) on the 1st of every month a=
+nd e-mail it to anyone you want.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">_____________________=
+_____________<br>
+~Chris G.<br>
+Bandwise LLC<br>
+<a href=3D"http://www.bandwise.com/">http://www.bandwise.com</a><br>
+<br>
+<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">On 2/26/2020 3:52 PM, Donald Dietz wrote:<o:p></o:p>=
+</p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">We will try to comply. Thanks. <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman \,serif&quot;"=
+>
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;text-decoration:=
+none"><img border=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;h=
+eight:.8in" id=3D"_x0000_i1026" src=3D"cid:image001.png@01D5ED7A.C2E072A0">=
+</span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager</b></span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a></span>=
+<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman \,serif&quot;;=
+color:white">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray <a href=3D"mailto:cgra=
+y@bandwise.com">
+&lt;cgray@bandwise.com&gt;</a> <br>
+<b>Sent:</b> Wednesday, February 26, 2020 3:37 PM<br>
+<b>To:</b> Donald Dietz <a href=3D"mailto:ddietz@frcemail.com">&lt;ddietz@f=
+rcemail.com&gt;</a>; Richard Capps
+<a href=3D"mailto:rcapps@frcemail.com">&lt;rcapps@frcemail.com&gt;</a><br>
+<b>Cc:</b> Britt Moore <a href=3D"mailto:bmoore@mossyoakproperties.com">&lt=
+;bmoore@mossyoakproperties.com&gt;</a>; Jada Dickinson
+<a href=3D"mailto:jdickinson@frcemail.com">&lt;jdickinson@frcemail.com&gt;<=
+/a><br>
+<b>Subject:</b> Re: HCM Report for Crown Pine Leasing<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p>That fear is why I don't like doing hot fixes. Tweaking a template is fi=
+ne, but most hot fixes are dangerous and the room for human error doing a l=
+ot of harm is often high. If we stick to proper testing protocols, we don't=
+ have to be afraid of big changes
+ bringing down the site. Testing protocols are slow and bureaucratic, but t=
+his fear is why they exist.<o:p></o:p></p>
+<p>Development and testing protocols:<o:p></o:p></p>
+<ol start=3D"1" type=3D"1">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l1 level1 lfo3">
+Requested changes to the application are to be run through Don for approval=
+.<o:p></o:p></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;m=
+so-margin-bottom-alt:auto;mso-list:l1 level1 lfo3">
+I complete the changes in my personal dev copy (using dummy data). I do my =
+rounds of testing here as well.<o:p></o:p></li><li class=3D"MsoNormal" styl=
+e=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 =
+lfo3">
+Don and I communicate on when to wrap up the latest updates.<o:p></o:p></li=
+><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom=
+-alt:auto;mso-list:l1 level1 lfo3">
+I write up a change log and provide you all some tips on what to look at.<o=
+:p></o:p></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:auto;mso-list:l1 level1 lfo3">
+Important! I roll the latest updates to Cgleasetesting.com where you can al=
+l try them out. Go crazy! Try to break it! This is the point where bugs are=
+ harmless and I can be notified to fix them before they get to production. =
+Moreover, miscommunications happen,
+ so this is the point where instructions to me can be clarified if they nee=
+d to be. Moreover still, you may get ideas for further improvements that ne=
+ed to be expedited. I also do further testing here at times.<o:p></o:p></li=
+><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom=
+-alt:auto;mso-list:l1 level1 lfo3">
+If testing goes well, Don approves the update for production I roll the upd=
+ate to the production site.<o:p></o:p></li></ol>
+<p class=3D"MsoNormal">Side note: I still <b><u>strongly</u></b> prefer bug=
+ reports to come via the tech support form on the site. This is also the ca=
+se on the testing site. That tech support form may seem like a hassle, but =
+it provides me with a ton of information
+ that you wouldn't even know to give me. <o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">_____________________=
+_____________<br>
+~Chris G.<br>
+Bandwise LLC<br>
+<a href=3D"http://www.bandwise.com/">http://www.bandwise.com</a><br>
+<br>
+<br>
+<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">On 2/26/2020 2:55 PM, Donald Dietz wrote:<o:p></o:p>=
+</p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Sounds hard and dangerous for this time of year.&nbs=
+p; Moving forward is there a way we could archive a fiscal year end HCM rep=
+ort.&nbsp; What we are being asked to do is show our lease rate history. &n=
+bsp;I guess moving forward we should run HCM Reports
+ and save them in an appropriate file.&nbsp; I do that fairly often so mayb=
+e I can get us close to what we need.&nbsp; Since we are invoicing for Texa=
+s as we speak, I don&#8217;t want to risk HCM going through any glitches at=
+ this time.&nbsp; Thanks for the explanation. &nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><a href=3D"http://www.frc=
+.us.com/"><span style=3D"font-size:12.0pt;line-height:105%;text-decoration:=
+none"><img border=3D"0" width=3D"75" height=3D"77" style=3D"width:.7833in;h=
+eight:.8in" id=3D"_x0000_i1029" src=3D"cid:image001.png@01D5ED7A.C2E072A0">=
+</span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">&nbsp;</span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Don Dietz
+<sub>CWB</sub> </span></b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">|<b>SFI Coordinator, Recreational =
+Lease Manager</b></span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, TX 7=
+5941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 | Mobile: (936=
+) 675-3462</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com"><span style=3D"color:black">www.frc.us.com</span></a></span>=
+<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" style=3D"padding:0in 0in 0in 0in"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;co=
+lor:white">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><i><span style=3D"font-si=
+ze:7.0pt;line-height:105%;font-family:&quot;Helvetica&quot;,sans-serif">Thi=
+s message may contain privileged or proprietary information. It has been se=
+nt for the sole use of the intended recipient(s).
+ If you have received this communication in error, please reply to the send=
+er and delete the message.</span></i><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray <a href=3D"mailto:cgra=
+y@bandwise.com">
+&lt;cgray@bandwise.com&gt;</a> <br>
+<b>Sent:</b> Wednesday, February 26, 2020 2:33 PM<br>
+<b>To:</b> Richard Capps <a href=3D"mailto:rcapps@frcemail.com">&lt;rcapps@=
+frcemail.com&gt;</a><br>
+<b>Cc:</b> Donald Dietz <a href=3D"mailto:ddietz@frcemail.com">&lt;ddietz@f=
+rcemail.com&gt;</a>; Britt Moore
+<a href=3D"mailto:bmoore@mossyoakproperties.com">&lt;bmoore@mossyoakpropert=
+ies.com&gt;</a>; Jada Dickinson
+<a href=3D"mailto:jdickinson@frcemail.com">&lt;jdickinson@frcemail.com&gt;<=
+/a><br>
+<b>Subject:</b> Re: HCM Report for Crown Pine Leasing<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p>I explained how the report works below. I have since been awaiting instr=
+uction. The problem is in defining exactly what this report is suppose to d=
+o. The report is designed to serve more of a &quot;lease's current status&q=
+uot; role with some ability to flex billing
+ details by fiscal year, but you're attempting to use it as a viewer of pas=
+t contracts -- not current status.<o:p></o:p></p>
+<p>The report is oriented by leases, each one having potentially many contr=
+acts attached to it. The lease can't print all of its contracts into its on=
+e row, so it has to pick one. The lease always joins to its most recent con=
+tract. Fiscal years are a concept
+ applied to invoices. Contracts can last as many years as they need to, so =
+they don't have a designated fiscal year (they have an arbitrary date range=
+). Therefore, the fiscal year selector orients the invoice details on the r=
+eport -- not the contract. Acre
+ rates also have a year designation, so I was able to get those to respond =
+to the fiscal year selector easily enough.<o:p></o:p></p>
+<p>Contracts have no &quot;awareness&quot; of the fiscal years that apply t=
+o them. They can endure for as many years as they need to. I would have to =
+join across to the acre rates to find the acre rate for that year and then =
+backwards from there to the contract record.
+ This report has one of the most complex queries in the entire app. I can t=
+ry to make the contracts follow the fiscal year selector, but it's a very s=
+mall intimidating problem to tackle.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">_____________________=
+_____________<br>
+~Chris G.<br>
+Bandwise LLC<br>
+<a href=3D"http://www.bandwise.com/">http://www.bandwise.com</a><br>
+<br>
+<br>
+<br>
+<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">On 2/26/2020 1:51 PM, Richard Capps wrote:<o:p></o:p=
+></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Chris, I need to run a HCM report for NX for 2018, 2=
+019, and 2020 that shows the lease acre rates. I ran the report for each ye=
+ar, but like Jada reported the lease rates are missing for 2018 and 2019. I=
+ thought the HCM report ran the fiscal
+ year, how can I get the reports?<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Thanks Richard<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman \,serif&quot;">&=
+nbsp;</span><o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"http://www.frc.us.com/"><span style=3D"fo=
+nt-size:12.0pt;text-decoration:none"><img border=3D"0" width=3D"75" height=
+=3D"77" style=3D"width:.7833in;height:.8in" id=3D"Picture_x0020_2" src=3D"c=
+id:image001.png@01D5ED7A.C2E072A0" alt=3D"FRC"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Richard M Capps</span></b><o:p></o=
+:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Recreational Lease Specialist</spa=
+n></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Drive | Diboll, Texa=
+s 75941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300 Ext. 1013</spa=
+n><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com/"><span style=3D"color:black">www.frc.us.com</span></a></span=
+><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Times New Roman \,serif&quot;;co=
+lor:white">&nbsp;</span><o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><i><span style=3D"font-size:7.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif">This message may contain privileged or propriet=
+ary information. It has been sent for the sole use of the intended recipien=
+t(s). If you have received this communication
+ in error, please reply to the sender and delete the message.</span></i><o:=
+p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Christopher Gray <a href=3D"mailto:cgra=
+y@bandwise.com">
+&lt;cgray@bandwise.com&gt;</a> <br>
+<b>Sent:</b> Tuesday, February 25, 2020 2:49 PM<br>
+<b>To:</b> Jada Dickinson <a href=3D"mailto:jdickinson@frcemail.com">&lt;jd=
+ickinson@frcemail.com&gt;</a><br>
+<b>Cc:</b> Donald Dietz <a href=3D"mailto:ddietz@frcemail.com">&lt;ddietz@f=
+rcemail.com&gt;</a>; Richard Capps
+<a href=3D"mailto:rcapps@frcemail.com">&lt;rcapps@frcemail.com&gt;</a>; Bri=
+tt Moore <a href=3D"mailto:bmoore@mossyoakproperties.com">
+&lt;bmoore@mossyoakproperties.com&gt;</a><br>
+<b>Subject:</b> Re: HCM Report for Crown Pine Leasing<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p>That report renders one row per lease, joining into each lease's most re=
+cent contract -- similar to how the smart search behaves. If the current co=
+ntract doesn't have an acre rate in 2019, it will show nothing in that colu=
+mn.<o:p></o:p></p>
+<p>There may a loss of expected function in this approach because the repor=
+t <u>can't</u> show what a lease's acre rate was in a past year if it must =
+cite a non-current contract to find it. That report is very complex, but I =
+can
+<u>try</u> to make it do that.<o:p></o:p></p>
+<p>Let me know.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">_____________________=
+_____________<br>
+~Chris G.<br>
+Bandwise LLC<br>
+<a href=3D"http://www.bandwise.com/">http://www.bandwise.com</a><br>
+<br>
+<br>
+<br>
+<br>
+<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">On 2/25/2020 1:55 PM, Jada Dickinson wrote:<o:p></o:=
+p></p>
+</div>
+<blockquote style=3D"margin-top:5.0pt;margin-bottom:5.0pt">
+<p class=3D"MsoNormal">Chris <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">The HCM report for Crown Pine Leasing is not pulling=
+ all the rates for the certain year that is chosen.&nbsp; For example I ran=
+ a 2018 report for all CPL in Texas and some of the 2018 rates were missing=
+.&nbsp; I ran the 2019 report for CPL and some
+ of the rates are missing on that report as well. <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Accounting is asking for acres and average rates and=
+ for 2018/2019 years.&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><a href=3D"http://www.frc.us.com/"><span style=3D"te=
+xt-decoration:none"><img border=3D"0" width=3D"60" height=3D"76" style=3D"w=
+idth:.625in;height:.7916in" id=3D"Picture_x0020_1" src=3D"cid:image002.png@=
+01D5ED7A.C2E072A0" alt=3D"FRC"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0in 0in 0in 0in"></td>
+<td style=3D"background:white;padding:0in 0in 0in 0in">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Jada Dickinson |
+<i>Rec. Lease Specialist</i></span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Helvetica&quot;,sans-serif;color:black">Forest Resource Consultants, Inc.<=
+/span></b><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">702 North Temple Dr. | Diboll, Texas =
+75941</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Office: (936) 829-6300&nbsp; ext.1003=
+</span><o:p></o:p></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;He=
+lvetica&quot;,sans-serif;color:black">Visit us at:&nbsp;<a href=3D"http://w=
+ww.frc.us.com/"><span style=3D"color:black">www.frc.us.com</span></a></span=
+><o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"color:white">
+<hr size=3D"2" width=3D"100%" noshade=3D"" style=3D"color:black" align=3D"c=
+enter">
+</span></div>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal"><i><span style=3D"font-size:7.0pt;font-family:&quot;=
+Helvetica&quot;,sans-serif">This message may contain privileged or propriet=
+ary information. It has been sent for the sole use of the intended recipien=
+t(s). If you have received this communication
+ in error, please reply to the sender and delete the message.</span></i><o:=
+p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span><o:p></o:p>=
+</p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</div>
+</body>
+</html>
+
+--_000_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_--
+
+--_005_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=2404;
+	creation-date="Thu, 27 Feb 2020 20:32:39 GMT";
+	modification-date="Thu, 27 Feb 2020 20:32:39 GMT"
+Content-ID: <image001.png@01D5ED7A.C2E072A0>
+Content-Transfer-Encoding: base64
+
+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
+AABJRU5ErkJggg==
+
+--_005_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=1530;
+	creation-date="Thu, 27 Feb 2020 20:32:40 GMT";
+	modification-date="Thu, 27 Feb 2020 20:32:40 GMT"
+Content-ID: <image002.png@01D5ED7A.C2E072A0>
+Content-Transfer-Encoding: base64
+
+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
+
+--_005_7a4a585a1a084facbb1ce64e2be68d0dfrcemailcom_--

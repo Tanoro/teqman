@@ -1,0 +1,169 @@
+Return-Path: <recreationalleases@frcleasing.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP
+	id EWnlCgUWT156EAAA1qp4aA
+	(envelope-from <recreationalleases@frcleasing.com>)
+	for <cgray@bandwise.com>; Thu, 20 Feb 2020 17:28:05 -0600
+Return-path: <recreationalleases@frcleasing.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Thu, 20 Feb 2020 17:28:05 -0600
+Received: from vm.huntlease.com ([66.55.82.142]:33006)
+	by vm.bandwise.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <recreationalleases@frcleasing.com>)
+	id 1j4vEY-0000vL-Sm
+	for cgray@bandwise.com; Thu, 20 Feb 2020 17:27:54 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=frcleasing.com; s=default; h=Content-Type:Content-Transfer-Encoding:
+	MIME-Version:Message-ID:Subject:Reply-To:From:To:Date:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=EXhPL/SqYdoIjidRN8ks1Rf6yIdyW9/eRNONW+UMI2Q=; b=IM5DZ0rrUoPgTo5v982sQiTdKh
+	Py3ebOCzaGhbzRX9bsnjJufL9eR4S21tbJgROtjtkm/DUIhZD7VlAsbd89qWg0Fq3BPFylzExAcs/
+	fRArvtvwMiGc+hmxsjV1ExPWCd0lKjKtC+QXJIJz+k928zwwvpWXy4qnwtdWNZn+9jdQVbVBXLgAt
+	DtYhYOqpLUfAEXWyHe+rg1oCduuc1DjN/Zob0qb7IEjT42MqMUK2Ay7MnN616GR8JNycmST/vqRor
+	LcMxaVle6AwAXIoaHjaerQjTOs88r4zGrXrvNuSCQYbW7GEGIZ4IEBB/mfcM5Spqh6IfeGJ/TtVyB
+	Yf3onnhg==;
+Received: from [66.55.82.142] (port=60396 helo=localhost)
+	by vm.huntlease.com with esmtpa (Exim 4.92)
+	(envelope-from <recreationalleases@frcleasing.com>)
+	id 1j4vDt-0002QM-EV
+	for cgray@bandwise.com; Thu, 20 Feb 2020 17:27:13 -0600
+Date: Thu, 20 Feb 2020 17:27:13 -0600
+To: "Tech Support" <cgray@bandwise.com>
+From: "Forest Resource Consultants" <recreationalleases@frcleasing.com>
+Reply-To: recreationalleases@frcleasing.com
+Subject: Tech support report from Forest Resource Consultants
+Message-ID: <dca8ea3c2aba93b99f857fb156603543@www.frcleasing.com>
+X-Priority: 3
+X-Mailer: Majicko Mail via PHP
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-Huntlease-MailScanner-Information: Please contact the ISP for more information
+X-Huntlease-MailScanner-ID: 1j4vDt-0002QM-EV
+X-Huntlease-MailScanner: Found to be clean
+X-Huntlease-MailScanner-SpamCheck: 
+X-Huntlease-MailScanner-From: recreationalleases@frcleasing.com
+X-Spam-Status: No, No
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm.huntlease.com
+X-AntiAbuse: Original Domain - bandwise.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - frcleasing.com
+X-Get-Message-Sender-Via: vm.huntlease.com: authenticated_id: mailserver@frcleasing.com
+X-Authenticated-Sender: vm.huntlease.com: mailserver@frcleasing.com
+X-bandwise-MailScanner-Information: Please contact the ISP for more information
+X-bandwise-MailScanner-ID: 1j4vEY-0000vL-Sm
+X-bandwise-MailScanner: Found to be clean
+X-bandwise-MailScanner-SpamCheck: not spam, SpamAssassin (not cached,
+	score=0.801, required 5, BAYES_50 0.80, DKIM_SIGNED 0.10,
+	DKIM_VALID -0.10, DKIM_VALID_AU -0.10, HTML_MESSAGE 0.00,
+	MIME_HTML_ONLY 0.10, RCVD_IN_DNSWL_NONE -0.00, SPF_PASS -0.00,
+	URIBL_BLOCKED 0.00)
+X-bandwise-MailScanner-From: recreationalleases@frcleasing.com
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title></title>
+		<link rel="stylesheet" href="http://www.frcleasing.com/templates/tcgrecreation_responsive/techsupport.css" title="stylesheet" type="text/css" />
+</head>
+<body>
+
+<h2>Tech Support - Forest Resource Consultants</h2>
+
+<table class="mainbody" cellspacing="0">
+	<col width="20%">
+	<col width="80%">
+	<thead>
+		<tr>
+			<th colspan="2">Environment Data</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reported Time</td>
+			<td>2020-02-20  5:27 PM</td>
+		</tr>
+		<tr>
+			<td>IP Address</td>
+			<td>75.108.65.115</td>
+		</tr>
+		<tr>
+			<td>User ID</td>
+			<td>63128</td>
+		</tr>
+		<tr>
+			<td>User Agent</td>
+			<td>Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0</td>
+		</tr>
+		<tr>
+			<td>Operating System</td>
+			<td>Windows NT 6.1; Win64; x64</td>
+		</tr>
+		<tr>
+			<td>JavaScript Detected</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Cookies Detected</td>
+			<td>Yes</td>
+		</tr>
+	</tbody>
+	<thead>
+		<tr>
+			<th colspan="2">Error Data</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+		<tr>
+			<td>Error URL</td>
+			<td>https://www.frcleasing.com/availleases?l=6239&cid=62</td>
+		</tr>
+		<tr>
+			<td>Error Message</td>
+			<td>A Javascript error has occurred. Please, contact technical support for assistance.</td>
+		</tr>
+		<tr>
+			<td>Description</td>
+			<td>I am unable to enter my Rules for my club</td>
+		</tr>
+		<tr>
+			<td>Tech Information</td>
+			<td>SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data in https://www.frcleasing.com/clients/availleaseDetail.js on line 95</td>
+		</tr>
+	</tbody>
+	<thead>
+	<tr>
+		<th colspan="2">Contact Information</th>
+	</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Name</td>
+			<td>Russell Jarrell</td>
+		</tr>
+		<tr>
+			<td>Reply Requested</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Phone</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>E-mail</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
+
+

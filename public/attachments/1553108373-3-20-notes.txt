@@ -1,0 +1,25 @@
+Regions:
+	Southeast Region (2)
+	South Central
+
+Owners:
+	Timberlands II, LLC
+	CatchMark HBU, LLC
+
+Tree Farms:
+	Coastal (CO)
+	South Central (SC)
+	SC-Mahrt
+	SC-Saunders
+
+Lease Types:
+	Apiary
+	Timber
+
+Mahrt and Saunders are timber leases
+CTT is Timber lease type
+All others are HLS Standard (1)
+
+Lease Restrictions:
+	Dog Hunting
+	Trapping

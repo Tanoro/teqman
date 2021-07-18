@@ -1,0 +1,341 @@
+Subject: Re: Unsigned contracts
+To: Don Dietz <ddietz@campbellglobal.com>,
+ Brian Gowin <bgowin@campbellglobal.com>
+References: <BN3PR0801MB09954E4E38D99D1ADE99CF42A4A30@BN3PR0801MB0995.namprd08.prod.outlook.com>
+From: Christopher Gray <cgray@bandwise.com>
+Message-ID: <776b4d60-db75-a534-9a61-e709627900da@bandwise.com>
+Date: Fri, 30 Mar 2018 13:57:00 -0500
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101
+ Thunderbird/52.6.0
+MIME-Version: 1.0
+In-Reply-To: <BN3PR0801MB09954E4E38D99D1ADE99CF42A4A30@BN3PR0801MB0995.namprd08.prod.outlook.com>
+Content-Type: multipart/alternative;
+ boundary="------------B6A6E5E272DF6E734CD46F56"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------B6A6E5E272DF6E734CD46F56
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+After reviewing the unsigned contracts in the system, I have discovered 
+a few causes that contributed.
+
+ 1. Step 4 of Batch Renewals only shows contracts for this fiscal year
+    that have been signed by the club contact, but not Campbell
+    personnel. This means if a club contact stalls on signing until the
+    fiscal year passes, the contract may never be noticed if no one is
+    watching the Unsigned Contracts report until next billing cycle.
+    SOLUTION: I have adjusted the Step 4 Batch Renewals interface to
+    ignore the fiscal year. It will show all contracts that need
+    execution regardless of when. I also want unsigned contracts to
+    stand out in the back office. If a club contact is stalling,
+    administrators need to know so they can be notified.
+ 2. There is simply insufficient motivation for club contacts to sign
+    their contracts under some circumstances. At the present time, a
+    club contact will encounter a popup dialogue demanding a signature
+    before being allowed to pay their lease online. However, their
+    contract will sit there for an extended period of time if their
+    lease was billed to a previous contract and had since been reissued
+    or amended for whatever reason. There is no reason to login and sign
+    it until next billing cycle, so the contacts don't. SOLUTION: We
+    need a weekly cron that e-mails club contacts periodically to remind
+    them to login and sign their contracts.
+ 3. DocuSign expires contracts that sit in their system for too long.
+    Once expired, they cannot be signed. This doesn't prevent anyone
+    from noticing and reporting it, but it is an inconvenience causing
+    some contacts who had previously signed to have to do it again.
+    SOLUTION: I will dig into the DocuSign documentation to see if I can
+    disable contract expiration. I don't know if this is even a thing.
+    It appears to be a default behavior, but I'll see if I can extended
+    it for longer if not turn it off. If not, we'll need another cron
+    that monitors for contract expiration and notifies Campbell (or just
+    automatically reissues the contract).
+ 4. _A side concern:_ Brian Gowin expressed a lot of concern that
+    payments are being accepted with no signed contract. I found several
+    cases of invoices being paid by ACH right after signing, but the
+    contract expired before execution by Campbell personnel. I also
+    found several examples of checks by mail being entered before a
+    contract had been returned. I found cases where a contract was never
+    submitted to DocuSign at all (usually because the contact had no
+    e-mail address), but the contact was allowed to pay because the
+    popup dialogue can't display a DocuSign signing dialogue without a
+    DocuSign ID. SOLUTION: The back office Add Payment form is too
+    unintelligent. I'd like to adjust the form so that it enforces the
+    need to have a signed contract in the system before being allowed to
+    enter a check. I do not have an appealing solution for customers
+    that are mailing in their contract who want to pay online except to
+    stop them from paying until a Campbell administrator scans in their
+    contract. This would be slow and tedious for the customer, but I
+    have no way of detecting the status of a paper contract until it is
+    scanned.
+ 5. I found a very small number of cases where a contract had been
+    signed and executed, but someone reissued it anyway thus exhibiting
+    the appearance of payments having been made on a contract that had
+    not been signed. SOLUTION: I want to disable this capability in the
+    event a contract has been executed. If the contract needs to be
+    amended, there is a "Terminate Lease" tool that serves this purpose.
+    Direct editing of a completed contract seems to be a bad idea.
+
+RECOVERY
+
+Fixing the contracts we currently have in the system will be simple, but 
+tedious -- especially given the timing. I have to individually reissue 
+the expired contracts through DocuSign and club contacts will simply 
+need to sign them. In some cases, the contact will have already signed 
+the contract and will have to do so again. I tried to find a solution 
+around this (i.e. perhaps printing the contract from DocuSign, signing 
+it, and scanning it back in), but this seems to be impossible. DocuSign 
+watermarks expired contracts as voided. In either case, once they sign 
+the contracts, everything will be right again.
+
+__________________________________
+~Chris G.
+Bandwise LLC
+http://www.bandwise.com <http://www.bandwise.com/>
+
+
+On 3/28/2018 11:43 AM, Don Dietz wrote:
+>
+> Hey guys, regarding 200+ unsigned contracts, we believe either HCM or 
+> Docusign is not saving some of the scanned contracts.  First of all, 
+> we do not accept payment without a signed contract.  We scan every 
+> contract once its signed prior to processing a payment.  We are very 
+> diligent in this process.   I begin every day at work by looking for 
+> contracts to be signed.  I sign them and I assume they are being 
+> generated as PDF  and are being saved.  Please investigate to see why 
+> the system has not saved these PDFs. Thanks
+>
+> *Don Dietz,**/CWB/***
+>
+> *Senior Wildlife Biologist*****
+>
+> *Campbell Global*
+>
+> *702 North Temple Drive*
+>
+> *Diboll, TX 75941*
+>
+> *ddietz@campbellglobal.com <mailto:ddietz@campbellglobal.com>*
+>
+> *Office 936-829-6337*
+>
+> *Cell 936-675-3462*
+>
+>
+> ------------------------------------------------------------------------
+> This e-mail message and any attachments are intended only for the 
+> addressee and may be privileged, confidential and protected from 
+> disclosure. If you are not the intended recipient, any dissemination, 
+> distribution, or copying is expressly prohibited. If you received this 
+> e-mail in error, please notify the sender immediately by replying to 
+> this e-mail message or by telephone. All e-mail communications sent 
+> and/or received by Campbell Global employees are subject to archiving, 
+> monitoring and/or review by Campbell Global personnel to ensure 
+> regulatory compliance to protect Campbell Global's clients and business.
+> ------------------------------------------------------------------------
+
+
+--------------B6A6E5E272DF6E734CD46F56
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <p>After reviewing the unsigned contracts in the system, I have
+      discovered a few causes that contributed.</p>
+    <ol>
+      <li>Step 4 of Batch Renewals only shows contracts for this fiscal
+        year that have been signed by the club contact, but not Campbell
+        personnel. This means if a club contact stalls on signing until
+        the fiscal year passes, the contract may never be noticed if no
+        one is watching the Unsigned Contracts report until next billing
+        cycle. <font color="#ff0000">SOLUTION: I have adjusted the Step
+          4 Batch Renewals interface to ignore the fiscal year. It will
+          show all contracts that need execution regardless of when. I
+          also want unsigned contracts to stand out in the back office.
+          If a club contact is stalling, administrators need to know so
+          they can be notified.</font></li>
+      <li>There is simply insufficient motivation for club contacts to
+        sign their contracts under some circumstances. At the present
+        time, a club contact will encounter a popup dialogue demanding a
+        signature before being allowed to pay their lease online.
+        However, their contract will sit there for an extended period of
+        time if their lease was billed to a previous contract and had
+        since been reissued or amended for whatever reason. There is no
+        reason to login and sign it until next billing cycle, so the
+        contacts don't. <font color="#ff0000">SOLUTION: We need a
+          weekly cron that e-mails club contacts periodically to remind
+          them to login and sign their contracts.<br>
+        </font></li>
+      <li>DocuSign expires contracts that sit in their system for too
+        long. Once expired, they cannot be signed. This doesn't prevent
+        anyone from noticing and reporting it, but it is an
+        inconvenience causing some contacts who had previously signed to
+        have to do it again. <font color="#ff0000">SOLUTION: I will dig
+          into the DocuSign documentation to see if I can disable
+          contract expiration. I don't know if this is even a thing. It
+          appears to be a default behavior, but I'll see if I can
+          extended it for longer if not turn it off. If not, we'll need
+          another cron that monitors for contract expiration and
+          notifies Campbell (or just automatically reissues the
+          contract).</font><br>
+      </li>
+      <li><u>A side concern:</u> Brian Gowin expressed a lot of concern
+        that payments are being accepted with no signed contract. I
+        found several cases of invoices being paid by ACH right after
+        signing, but the contract expired before execution by Campbell
+        personnel. I also found several examples of checks by mail being
+        entered before a contract had been returned. I found cases where
+        a contract was never submitted to DocuSign at all (usually
+        because the contact had no e-mail address), but the contact was
+        allowed to pay because the popup dialogue can't display a
+        DocuSign signing dialogue without a DocuSign ID. <font
+          color="#ff0000">SOLUTION: The back office Add Payment form is
+          too unintelligent. I'd like to adjust the form so that it
+          enforces the need to have a signed contract in the system
+          before being allowed to enter a check. I do not have an
+          appealing solution for customers that are mailing in their
+          contract who want to pay online except to stop them from
+          paying until a Campbell administrator scans in their contract.
+          This would be slow and tedious for the customer, but I have no
+          way of detecting the status of a paper contract until it is
+          scanned.<br>
+        </font></li>
+      <li>I found a very small number of cases where a contract had been
+        signed and executed, but someone reissued it anyway thus
+        exhibiting the appearance of payments having been made on a
+        contract that had not been signed. <font color="#ff0000">SOLUTION:
+          I want to disable this capability in the event a contract has
+          been executed. If the contract needs to be amended, there is a
+          "Terminate Lease" tool that serves this purpose. Direct
+          editing of a completed contract seems to be a bad idea.<br>
+        </font></li>
+    </ol>
+    <font size="+2">RECOVERY</font><br>
+    <br>
+    Fixing the contracts we currently have in the system will be simple,
+    but tedious -- especially given the timing. I have to individually
+    reissue the expired contracts through DocuSign and club contacts
+    will simply need to sign them. In some cases, the contact will have
+    already signed the contract and will have to do so again. I tried to
+    find a solution around this (i.e. perhaps printing the contract from
+    DocuSign, signing it, and scanning it back in), but this seems to be
+    impossible. DocuSign watermarks expired contracts as voided. In
+    either case, once they sign the contracts, everything will be right
+    again.<br>
+    <br>
+    <div class="moz-signature">__________________________________<br>
+      ~Chris G.<br>
+      Bandwise LLC<br>
+      <a href="http://www.bandwise.com/">http://www.bandwise.com</a><br>
+      <br>
+      <br>
+    </div>
+    <div class="moz-cite-prefix">On 3/28/2018 11:43 AM, Don Dietz wrote:<br>
+    </div>
+    <blockquote type="cite"
+cite="mid:BN3PR0801MB09954E4E38D99D1ADE99CF42A4A30@BN3PR0801MB0995.namprd08.prod.outlook.com">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="Generator" content="Microsoft Word 15 (filtered
+        medium)">
+      <style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+      <div class="WordSection1">
+        <p class="MsoNormal">Hey guys, regarding 200+ unsigned
+          contracts, we believe either HCM or Docusign is not saving
+          some of the scanned contracts.  First of all, we do not accept
+          payment without a signed contract.  We scan every contract
+          once its signed prior to processing a payment.  We are very
+          diligent in this process.   I begin every day at work by
+          looking for contracts to be signed.  I sign them and I assume
+          they are being generated as PDF  and are being saved.  Please
+          investigate to see why the system has not saved these PDFs.
+          Thanks <o:p></o:p></p>
+        <p class="MsoNormal"><o:p> </o:p></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Don Dietz,</span></b><b><span
+              style="font-size:8.0pt;color:#385623">
+              <i>CWB</i></span></b><b><span
+              style="font-size:12.0pt;color:#385623"><o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Senior Wildlife
+              Biologist</span></b><b><span style="color:#385623">
+            </span></b><b><span style="font-size:8.0pt;color:#385623"><o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Campbell Global<o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">702 North Temple
+              Drive<o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Diboll, TX 75941<o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#0070C0"><a
+                href="mailto:ddietz@campbellglobal.com"
+                moz-do-not-send="true"><span style="color:#0070C0">ddietz@campbellglobal.com</span></a><o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Office 936-829-6337<o:p></o:p></span></b></p>
+        <p class="MsoNormal"><b><span
+              style="font-size:12.0pt;color:#385623">Cell 936-675-3462<o:p></o:p></span></b></p>
+        <p class="MsoNormal"><o:p> </o:p></p>
+      </div>
+      <br>
+      <span style="font-family:Arial; Font-size:9.0pt">
+        <hr> This e-mail message and any attachments are intended only
+        for the addressee and may be privileged, confidential and
+        protected from disclosure. If you are not the intended
+        recipient, any dissemination, distribution, or copying is
+        expressly prohibited. If you received this e-mail in error,
+        please notify the sender immediately by replying to this e-mail
+        message or by telephone. All e-mail communications sent and/or
+        received by Campbell Global employees are subject to archiving,
+        monitoring and/or review by Campbell Global personnel to ensure
+        regulatory compliance to protect Campbell Global's clients and
+        business.<br>
+        <hr> </span> </blockquote>
+    <br>
+  </body>
+</html>
+
+--------------B6A6E5E272DF6E734CD46F56--

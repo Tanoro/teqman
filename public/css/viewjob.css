@@ -1,0 +1,157 @@
+/* ##### View Job ##### */
+
+.jobdescription blockquote p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.jobdescription blockquote {
+	background-color: #DBDBDB;
+	border: 1px solid #808080;
+	padding: 5px;
+}
+.jobdescription blockquote blockquote {
+	border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color blue;
+	border-left: 2px solid blue;
+	border-style: none none none solid;
+	border-width: 0 0 0 2px;
+	padding: 0 0 0 5px;
+}
+
+/**
+* Progress List
+**/
+
+ul.progressList {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.progressList>li {
+	margin-bottom: 10px;
+	box-shadow: 5px 5px 5px #414141;
+}
+
+.progressList .progressContainer {
+	border: 1px solid #dbdbdb;
+	height: 100px;
+	background-color: #ffffff;
+	border-radius: 5px;
+	display: table;
+}
+
+.progressList .avatar {
+	display: table-cell;
+	width: 90px;
+	text-align: center;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 3px;
+	background-color: #dbdbdb;
+	vertical-align: top;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.progressList .avatar img {
+	height: 32px;
+	width: auto;
+}
+
+.progressList .title a:link, .progressList .title a:visited, .progressList .title a:active {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0000ff;
+}
+
+.progressList .title a:hover {
+	color: #000000;
+}
+
+.progressList li.totalTime {
+	color: #000000;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #ffffff;
+	padding: 8px 5px;
+	border-radius: 5px;
+}
+
+.progressList li.totalTime .hourFee {
+	float: right;
+}
+
+.progressList li.totalTime .notice {
+	color: #ff0000;
+}
+
+.progressList .sessionNumber {
+	float: right;
+	margin-top: 3px;
+	color: #808080;
+}
+
+.progressList .postdate {
+	color: #808080;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.progressList .hoursSpent {
+	color: #000000;
+	font-weight: bold;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.progressList .body {
+	float: right;
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	width: 1295px;
+}
+
+.progressContainer ul.attachment {
+	padding: 3px;
+	background-color: #dbdbdb;
+}
+
+.progressContainer ul.attachment a:link {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+
+
+/* Job Status */
+
+.jobstatus {
+	font-weight: bold;
+}
+
+.hold {
+	color: #0000FF;
+}
+
+.closed {
+	color: #FF0000;
+}
+
+.claimed {
+	color: #009900;
+}
+
+/* Highlight search strings */
+.highlight {
+	background-color: #FFFF00;
+	font-weight: bold;
+}

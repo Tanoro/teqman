@@ -1,0 +1,169 @@
+Return-Path: <recreationalleases@cglease.com>
+Delivered-To: cgray@bandwise.com
+Received: from vm.bandwise.com
+	by vm.bandwise.com with LMTP id oMTqD6JD8VkXewAA1qp4aA
+	for <cgray@bandwise.com>; Wed, 25 Oct 2017 21:08:34 -0500
+Return-path: <recreationalleases@cglease.com>
+Envelope-to: cgray@bandwise.com
+Delivery-date: Wed, 25 Oct 2017 21:08:34 -0500
+Received: from [66.55.85.38] (port=45050 helo=vm.cglease.com)
+	by vm.bandwise.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <recreationalleases@cglease.com>)
+	id 1e7Xas-0008Cm-Su
+	for cgray@bandwise.com; Wed, 25 Oct 2017 21:08:26 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=cglease.com
+	; s=default; h=Content-Type:Content-Transfer-Encoding:MIME-Version:Message-ID
+	:Subject:Reply-To:From:To:Date:Sender:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=Rj+5BvpF6Am8GVNGq5bnvd/sLiV6/E05YHZylxzVQcc=; b=jKLU+14lV+cCAQV0XfeVzbzU+T
+	9OEQFfZk77PICoEi9G8xoEpT5ZQivkyFaga3nzghMi72R6BLQH4kEeryazCI2UiPK97O6C7/eDTYO
+	axIQa3JNPKO7KSBTqYYQIKmBezpMLw5uU67/lyQ5rTLcPih91Cti+ZLfe1qzIlJiy2qGvFnkURQfU
+	x805atRrn42BKevmcmuxG7FfaUvn2GFXSK1KFI0wFN5xwdpi8zXF0xEIznfAOwb0v7yObROfTMQCq
+	dAITQKEyZBHB0Yey1cwXoEn64xyBrVQtNEo8FLWMqVP8Y5Ss5FWeS2rct8sXHDJK8xTZlv6tdSjHK
+	wXUu035g==;
+Received: from [66.55.83.66] (port=50248 helo=localhost)
+	by vm.cglease.com with esmtpa (Exim 4.89)
+	(envelope-from <recreationalleases@cglease.com>)
+	id 1e7XaF-0006pf-UZ
+	for cgray@bandwise.com; Wed, 25 Oct 2017 21:07:47 -0500
+Date: Wed, 25 Oct 2017 21:07:47 -0500
+To: "Tech Support" <cgray@bandwise.com>
+From: "Campbell Global" <recreationalleases@cglease.com>
+Reply-To: recreationalleases@cglease.com
+Subject: Tech support report from Campbell Global
+Message-ID: <158624f62855ce09bf8385b315b46f23@www.cglease.com>
+X-Priority: 3
+X-Mailer: Majicko Mail via PHP
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-cglease-MailScanner-Information: Please contact the ISP for more information
+X-cglease-MailScanner-ID: 1e7XaF-0006pf-UZ
+X-cglease-MailScanner: Found to be clean
+X-cglease-MailScanner-SpamCheck: 
+X-cglease-MailScanner-From: recreationalleases@cglease.com
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vm.cglease.com
+X-AntiAbuse: Original Domain - bandwise.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cglease.com
+X-Get-Message-Sender-Via: vm.cglease.com: authenticated_id: mailserver@cglease.com
+X-Authenticated-Sender: vm.cglease.com: mailserver@cglease.com
+X-bandwisems-MailScanner-Information: Please contact the ISP for more information
+X-bandwisems-MailScanner-ID: 1e7Xas-0008Cm-Su
+X-bandwisems-MailScanner: Found to be clean
+X-bandwisems-MailScanner-SpamCheck: not spam (whitelisted),
+	SpamAssassin (not cached, score=5.931, required 5, BAYES_50 1.00,
+	DKIM_SIGNED 0.10, DKIM_VALID -0.10, DKIM_VALID_AU -0.10,
+	HTML_MESSAGE 0.00, MIME_HTML_ONLY 0.72, RAZOR2_CF_RANGE_51_100 0.50,
+	RAZOR2_CF_RANGE_E8_51_100 1.89, RAZOR2_CHECK 0.92, RDNS_NONE 1.00,
+	SPF_PASS -0.00)
+X-bandwisems-MailScanner-From: recreationalleases@cglease.com
+X-Spam-Status: No
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title></title>
+	
+	<link rel="stylesheet" href="http://www.cglease.com/templates/tcgrecreation_responsive/techsupport.css" title="stylesheet" type="text/css" />
+</head>
+<body>
+
+<h2>Tech Support - Campbell Global</h2>
+
+<table class="mainbody" cellspacing="0">
+	<col width="20%">
+	<col width="80%">
+	<thead>
+		<tr>
+			<th colspan="2">Environment Data</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Reported Time</td>
+			<td>2017-10-25  9:07 PM</td>
+		</tr>
+		<tr>
+			<td>IP Address</td>
+			<td>107.77.198.170</td>
+		</tr>
+		<tr>
+			<td>User ID</td>
+			<td>57291</td>
+		</tr>
+		<tr>
+			<td>User Agent</td>
+			<td>Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1</td>
+		</tr>
+		<tr>
+			<td>Operating System</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>JavaScript Detected</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Cookies Detected</td>
+			<td>Yes</td>
+		</tr>
+	</tbody>
+	<thead>
+		<tr>
+			<th colspan="2">Error Data</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+		<tr>
+			<td>Error URL</td>
+			<td>https://www.cglease.com/club/deadwood_hunting_club/observation-report</td>
+		</tr>
+		<tr>
+			<td>Error Message</td>
+			<td>A Javascript error has occurred. Please, contact technical support for assistance.</td>
+		</tr>
+		<tr>
+			<td>Description</td>
+			<td>Cannot log in to club ORs says "tech problem contact support "</td>
+		</tr>
+		<tr>
+			<td>Tech Information</td>
+			<td>SecurityError (DOM Exception 18): Sandbox access violation: Blocked a frame at "https://www.cglease.com" from accessing a frame at "https://www.cglease.com".  The frame being accessed is sandboxed and lacks the "allow-same-origin" flag. in https://www.cglease.com/modules/jquery/jquery.min.js on line 3</td>
+		</tr>
+	</tbody>
+	<thead>
+	<tr>
+		<th colspan="2">Contact Information</th>
+	</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Name</td>
+			<td>John Daniel</td>
+		</tr>
+		<tr>
+			<td>Reply Requested</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Phone</td>
+			<td>9365916300</td>
+		</tr>
+		<tr>
+			<td>E-mail</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
+
+
