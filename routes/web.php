@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 # App controllers
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\AjaxController;
 use App\Http\Controllers\Activity;
 use App\Http\Controllers\Projects;
 use App\Http\Controllers\Jobs;
@@ -32,10 +33,7 @@ Route::get('/activity', [Activity::class, 'view']);
 Route::get('/billing', [Billing::class, 'index']);
 
 # Ajax requests
-Route::get('/ajax', function () {
-    // There should never be a GET request on the Ajax controller; POST only
-    return redirect('/');
-});
+Route::get('ajax-request', [AjaxController::class, 'notfound']);
 Route::post('/ajax/test', [AjaxController::class, 'test']);
 
 # Projects views
@@ -53,3 +51,6 @@ Route::view('/customers/add', 'addcustomer');
 
 # Users
 Route::get('/users', [Users::class, 'view']);
+
+# Testing
+Route::view('/react', 'react');

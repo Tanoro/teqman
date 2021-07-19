@@ -1,1 +1,1 @@
-This is a project management system for test purposes.
+I'm learning Laravel! This is a project management system I am building for hands-on learning purposes.

@@ -21,7 +21,7 @@ RUN apt-get update && apt-get install -y \
 RUN apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Install PHP extensions
-RUN docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd
+RUN docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd npm
 
 # Get latest Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
@@ -36,6 +36,10 @@ WORKDIR /var/www
 RUN chown -R www-data:www-data /var/www
 
 #USER $user
-#RUN composer install
 
-# Build the app with: `docker-compose build app`
+# AFTER LAUNCHING CONTAINER
+# composer install
+# npm install babel-cli@6 babel-preset-react-app@3
+
+# Engage Babel so that ReactJS JSX syntax works as normal
+# npx babel --watch src --out-dir public/reactjs --presets react-app/prod

@@ -8,6 +8,11 @@ use Config;
 
 class AjaxController extends Controller
 {
+	public function notfound(Request $request)
+	{
+		return view('ajax-request');
+	}
+	
 	public function test(Request $request)
 	{
 		$data = $request->all();
