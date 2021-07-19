@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+@extends('layouts.app')
+@section('title')View Job - #{{ $job->jid }}@endsection
 
-	<title>View Job - #{{ $job->jid }}</title>
+@section('styles')
+<link rel="stylesheet" type="text/css" href="{{ url('css/viewjob.css') }}" />
+@endsection
 
-	<link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}" />
-	<link rel="stylesheet" type="text/css" href="{{ url('css/viewjob.css') }}" />
-</head>
-<body class="antialiased">
-
-@include('includes.menu')
-
-<div id="pageBody">
+@section('content')
 {{--
 * Project Header Information
 ********************************************************************************************************************
@@ -133,8 +125,4 @@ Developer Note: I had to remove the reference to the userinfo array here until I
 		</form>
 	@endif
 @endif
-
-</div>
-
-</body>
-</html>
+@endsection

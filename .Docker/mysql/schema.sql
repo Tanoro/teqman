@@ -90,6 +90,36 @@ CREATE TABLE `timetrack` (
   KEY `jid` (`jid`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
+CREATE TABLE `users` (
+  `userid` int(11) NOT NULL,
+  `cid` int(11) NOT NULL DEFAULT '0',
+  `usergroup` varchar(100) NOT NULL DEFAULT '',
+  `username` varchar(20) NOT NULL DEFAULT '',
+  `pwd` varchar(100) NOT NULL DEFAULT '',
+  `email` varchar(100) NOT NULL DEFAULT '',
+  `joined` int(10) NOT NULL DEFAULT '0',
+  `avatar` varchar(100) DEFAULT NULL,
+  `salt` varchar(5) NOT NULL DEFAULT '',
+  `token` varchar(32) NOT NULL DEFAULT '',
+  `lastactivity` int(10) NOT NULL DEFAULT '0',
+  `lang` varchar(10) NOT NULL DEFAULT '',
+  `timezone` varchar(100) NOT NULL DEFAULT '',
+  `firstname` varchar(255) NOT NULL DEFAULT '',
+  `lastname` varchar(255) NOT NULL DEFAULT '',
+  `address1` varchar(255) NOT NULL DEFAULT '',
+  `address2` varchar(255) NOT NULL DEFAULT '',
+  `city` varchar(255) NOT NULL DEFAULT '',
+  `state` char(2) NOT NULL DEFAULT '',
+  `zip` varchar(10) NOT NULL DEFAULT '',
+  `homephone` varchar(15) NOT NULL DEFAULT '',
+  `workphone` varchar(15) NOT NULL DEFAULT '',
+  `cellphone` varchar(15) NOT NULL DEFAULT '',
+  `lastupdated` int(11) NOT NULL DEFAULT '0',
+  `comment` text,
+  PRIMARY KEY (`userid`),
+  UNIQUE KEY `users` (`username`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
 
 # Triggers and Procedures
 DELIMITER $$

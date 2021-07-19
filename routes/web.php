@@ -31,6 +31,13 @@ Route::get('/', [IndexController::class, 'index']);
 Route::get('/activity', [Activity::class, 'view']);
 Route::get('/billing', [Billing::class, 'index']);
 
+# Ajax requests
+Route::get('/ajax', function () {
+    // There should never be a GET request on the Ajax controller; POST only
+    return redirect('/');
+});
+Route::post('/ajax/test', [AjaxController::class, 'test']);
+
 # Projects views
 Route::get('/projects', [Projects::class, 'list']);
 Route::get('/projects/view/{id}', [Projects::class, 'view']);
